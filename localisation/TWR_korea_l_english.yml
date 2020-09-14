@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
 ### General Events ###
 
@@ -474,8 +474,7 @@ uskorea.18.t:0 "America Accepts"
 uskorea.18.d:0 "The United States has accepted our request - diplomatic relations are restored, and they once again guarantee our independence!"
 uskorea.18.a:0 "좋아!"
 uskorea.19.t:0 "미국이 거절하다!"
-uskorea.19.d:0 "미국은 불행하게도 외교관계를 정상화해 달라는 우리의 요청을 거절했다.
-."
+uskorea.19.d:0 "미국은 불행하게도 외교관계를 정상화해 달라는 우리의 요청을 거절했다."
 uskorea.19.a:0 "아주 실망이다"
 uskorea.20.t:0 "대마도 섬 양도?"
 uskorea.20.d:0 "Ever since the surrender of Japan in 1945, the island of Tsushima, or in Korean, Daemado, has been under American military occupation. The island lies between the Korean peninsula and Japan, and Korea has some, albeit arguable, historical claims to them. Now that we have decided to align ourselves diplomatically closer towards the US, an effort could be made to request the territory is transferred to us."
