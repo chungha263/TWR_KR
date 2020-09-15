@@ -53,9 +53,9 @@
  BORMANNPOWER:0 "§HHitler's Trust Towards Bormann:§!\n[Root.GetBormannTrust] \n\n§HBormann's Influence:§!\n[Root.GetBormannPower]"
  HIMMLERPOWER:0 "§HHitler's Trust Towards Himmler:§!\n[Root.GetHimmlerTrust] \n\n§HHimmler's Influence:§!\n[Root.GetHimmlerPower]"
 
- suspicious:0 "§RSuspicious§!"
- indifferent:0 "§WIndifferent§!"
- trusted:0 "§GTrusted§!"
+ suspicious:0 "§R의심중§!"
+ indifferent:0 "§W무관심함§!"
+ trusted:0 "§G신뢰중§!"
 
  speer_is_dead:0 "§RAlbert Speer is dead.§!"
  speer_strong_but_untrusted:0 "§HAlbert Speer has strong influence but is suspected by the Führer.§!"
