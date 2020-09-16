@@ -1,6 +1,6 @@
 ﻿l_english:
- us_congress_exit_tooltip:0 "Close"
- us_congress_button_bg_tooltip:0 "View the US Congress"
+ us_congress_exit_tooltip:0 "닫기"
+ us_congress_button_bg_tooltip:0 "미국 의회 개요 보기"
  us_congress_button_bg_tooltip_delayed:0 "View a breakdown of the current support for the President in the US Congress"
  congress_progress_bar_45:0 "GFX_congress_progress_bar_45"
  us_congress_senate_support_tooltip:0 "Cost(£pol_power ):100 - Increase §YSenate Support§! by 5%"

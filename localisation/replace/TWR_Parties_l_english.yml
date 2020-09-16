@@ -3,278 +3,278 @@
 ######## Ideologies
 ######################################################################################
 ## Communist Regimes
-POLITICS_NEXT_ELECTION:0 "Next Election: §Y$DATE$§!"
-SHOW_COLLABORATIONS:0 "Collaborations"
- marxist_leninist:0 "Marxist-Leninist"
- marxist_leninist_noun:0 "Marxism-Leninism"
- marxist_leninist_desc:0 "Communist Regime"
+POLITICS_NEXT_ELECTION:0 "다음 선거: §Y$DATE$§!"
+SHOW_COLLABORATIONS:0 "연정"
+ marxist_leninist:0 "마르크스-레닌주의"
+ marxist_leninist_noun:0 "마르크스-레닌주의"
+ marxist_leninist_desc:0 "공산주의 정권"
 
- bolshevik_leninist:0 "Rev. Communist"
- bolshevik_leninist_noun:0 "Revolutionary Communism"
- bolshevik_leninist_desc:0 "Communist Regime"
+ bolshevik_leninist:0 "혁명적 공산주의"
+ bolshevik_leninist_noun:0 "혁명적 공산주의"
+ bolshevik_leninist_desc:0 "공산주의 정권"
 
- socialist:0 "Socialist"
- socialist_noun:0 "Socialism"
- socialist_desc:0 "Socialist Regime"
+ socialist:0 "사회주의"
+ socialist_noun:0 "사회주의"
+ socialist_desc:0 "사회주의 정권"
 
 ## Democratic Regimes
- conservative:0 "Conservative"
- conservative_noun:0 "Conservatism"
- conservative_desc:0 "Democratic Regime"
+ conservative:0 "보수주의"
+ conservative_noun:0 "보수주의"
+ conservative_desc:0 "민주주의 정권"
 
- liberal:0 "Liberal"
- liberal_noun:0 "Liberalism"
- liberal_desc:0 "Democratic Regime"
+ liberal:0 "자유주의"
+ liberal_noun:0 "자유주의"
+ liberal_desc:0 "민주주의 정권"
 
- social_democrat:0 "Social Democrat"
- social_democrat_noun:0 "Social Democracy"
- social_democrat_desc:0 "Democratic Regime"
+ social_democrat:0 "사회민주주의"
+ social_democrat_noun:0 "사회민주주의"
+ social_democrat_desc:0 "민주주의 정권"
 ## Fascist Regimes
- fascist:0 "Fascist"
- fascist_noun:0 "Fascism"
- fascist_desc:0 "Fascist Regime"
+ fascist:0 "파시즘"
+ fascist_noun:0 "파시즘"
+ fascist_desc:0 "파시즘 정권"
 
- national_socialist:0 "National Socialist"
- national_socialist_noun:0 "National Socialism"
- national_socialist_desc:0 "National Socialist Regime"
+ national_socialist:0 "국가사회주의"
+ national_socialist_noun:0 "국가사회주의"
+ national_socialist_desc:0 "국가사회주의 정권"
 
- paternal_autocrat:0 "Paternal Autocrat"
- paternal_autocrat_noun:0 "Paternal Autocracy"
- paternal_autocrat_desc:0 "Authoritarian Regime"
+ paternal_autocrat:0 "권위독재주의"
+ paternal_autocrat_noun:0 "권위독재주의"
+ paternal_autocrat_desc:0 "권위주의 정권"
 
 ###########################################
 # Subideologies
 ###########################################
 # National Socialist
- national_socialism:0 "National Socialism"
- national_socialism_desc:0 "§YNational Socialism§! is the political ideology most associated with the National Socialist German Worker’s Party during the 20th Century. National Socialism was developed by Adolf Hitler and it involves fascist beliefs, an autocratic system of government, and most infamously of all, anti-Semitism. National Socialists believe in the superiority of Europeans above all, or more specifically, Aryans, the German race. National Socialists despised Jews and Communists, as they believed that they backstabbed the German Empire during the Weltkrieg, causing the Central Powers to lose the war."
+ national_socialism:0 "국가사회주의"
+ national_socialism_desc:0 "§Y국가사회주의§!는 국가사회주의 독일 노동자당과 관련있는 20세기의 이념입니다. 국가사회주의는 아돌프 히틀러에 의해 성장하였고, 파시스트적인 신념, 즉 독재정권 체제와 반유대주의적인 신념을 포함하고 있습니다. 국가사회주의자들은 무엇보다도 유럽인들의 우월성, 구체적으로 말해서 독일의 민족인 아리안 민족의 우월성을 믿고 있습니다. 국가사회주의자들은 유대인들과 공산주의자들이 제1차 세계대전에서 동맹국 국가들을 '배후중상'했다고 믿습니다."
 
- strasserism:0 "Strasserism"
- strasserism_desc:0 "§YStrasserism§! is a strand of National Socialism that emphasizes anti-capitalist and worker-based socialist policies over Aryan racial supremacy.  It emphasizes anti-capitalism as a means of achieving national rebirth, favoring the establishiment of central planning through a guild system over corporatism, which called for a specifically German nationalist form of socialist revolution."
+ strasserism:0 "슈트라서주의"
+ strasserism_desc:0 "§Y슈트라서주의§!는 아리아 인종 우월주의보다 반 자본주의적이고 노동자 중심의 사회주의 정책을 강조하는 국가사회주의의 한 종류입니다. 국가의 재탄생을 위한 수단으로 반자본주의를 강조하며, 독일의 민족주의적인 사회주의 혁명을 요구하는 중앙 집권체제 수립을 선호하고 있습니다."
 
- national_bolshevism:0 "National Bolshevism"
- national_bolshevism_desc:0 "Seen as a compromise between typical National Socialism and Communism, §YNational Bolshevism§! strives to combine Socialist economics with radical Nationalism."
+ national_bolshevism:0 "국민볼셰비즘"
+ national_bolshevism_desc:0 "전형적인 국가사회주의와 공산주의 사이의 타협으로 보여지는 §Y국민볼셰비즘§!은 사회주의 경제학과 급진적 민족주의를 결합하기 위해 노력합니다."
 
- ultranationalism:0 "Ultranationalism"
- ultranationalism_desc:0 "As an extreme form of Nationalism, §YUltranationalism§! encompasses a wide variety of loosely connected ideologies that promotes ones nation, people, and state above all."
+ ultranationalism:0 "국수주의"
+ ultranationalism_desc:0 "민족주의의 극단적인 형태로서, §Y국수주의§!는 무엇보다도 한개의 국가, 국민을 지지하는 느슨한 이념들을 포괄하고 있습니다."
 
- esoteric_national_socialism:0 "Esoteric National Socialism"
- esoteric_national_socialism_desc:0 "§YEsteroic Nazism§! is a branch of National Socialism integrating occultist and neopagan beliefs within Nazi ideology.  It theorized that the Aryan race is descended from alleged ancient civilizations such as Atlantis and had a different evolutionary lineage from other racial groups, possibly descended from divine beings themselves.\n\n§YEsteroic Nazism§! wholly rejects Christianity, claiming it to be created by Jewry as a means to weaken the Aryan race"
- 
- neo-folkism:0 "Neo-Folkism"
- neo-folkism_desc:0 "§YNeo-Folkism§! also called People's Nationalism or Neo-Volkisch in Germany, is an ideology with radically ethnocentric, populist and nationalist character that has emerged, as an attempt to revive or imitate the Völkisch movement of 19th and early 20th-century Germany. §YNeo-Folkism§! has a far greater focus on populism, romanticism and anti-elitist sentiments than §RNazism§!."
+ esoteric_national_socialism:0 "밀교적 국가사회주의"
+ esoteric_national_socialism_desc:0 "§Y밀교적 국가사회주의§!은 신비주의와 현대이교를 국가사회주의에 통합한 국가사회주의의 한 분야입니다. 이 이론은 아리아 인종은 아틀란티스와 같은 고대문명의 후손이며, 다른 인종과는 차별화된 진화계통을 가지고 있으며, 신성한 존재의 후손이라는 이론입니다.\n\n§Y밀교적 국가사회주의§!는 기독교는 전적으로 잘못되었다고 주장하며, 아리아 인종을 약화시키기 위하여 유대인에 의해서 창조되었다고 주장합니다."
 
- technocratic_spartanism:0 "Technocratic Spartanism"
- technocratic_spartanism_desc:0 "Born of a desire to transcend the boundaries of modern man, §YTechnocratic Spartanism§! is less a focused ideology, and more a new school of modern philosophy.  Brought about by Leonid Brezhnev's desire to bring mankind into a new age, §YTechnocratic Spartanism§! focuses on asking large technological advances, while regulating society down to a state of near absolute minimalism, similar to that of §RTraditionalist Socialism§!.  Often seen as almost inherently contradictory, in practice §YTechnocratic Spartanism§! equips it's people's with a very limited amount of incredibly advanced technology.  Intriguingly, §YTechnocratic Spartanism§! Holds the view that race is worthless, yet culture is everything, seeing all non Spartanists as mere lambs to the cosmic slaughter."
+ neo-folkism:0 "신종족주의"
+ neo-folkism_desc:0 "§Y신종족주의§!는 독일에서는 네오-폴키슈라고도 불리는데, 19세기~20세기 초 독일의 인민 국민주의 운동을 부흥시키려하거나 모방하려는 시도로 등장한 민족주의적, 대중주의적, 급진적인 성격을 지닌 이념입니다. §Y인민 국민주의§!는 §R국가사회주의§!보다 대중주의, 낭만주의, 반엘리트주의에 초점을 맞추고 있습니다."
 
- goering_natsoc:0 "Göring National Socialism"
+ technocratic_spartanism:0 "기술관료 스파르타주의"
+ technocratic_spartanism_desc:0 "현대인의 경계를 초월하려는 욕망에서 비롯된 §Y기술관료 스파르타주의§!는 이념보다는 철학에 가깝습니다. 인류를 새로운 시대로 이끄려는 레오니트 브레즈네프의 욕망에서 태어난 §Y기술관료 스파르타주의§!는 사회를 §R전통적 사회주의§!와 유사한 최소한의 상태로 규제하며 기술적 진보에 중점을 두고 있습니다! 이 두가지는 모순되는 것처럼 보이지만, §Y기술관료 스파르타주의§!는 믿을수 없을 정도로 진보된 기술로 사람들을 무장시킵니다. 흥미롭게도, §Y기술관료 스파르타주의§!에서는 인종은 가치가 없고, 문화가 모든 것을 결정한다는 관점을 가지고 있습니다."
+
+ goering_natsoc:0 "괴링 국가사회주의"
  goering_natsoc_desc:0 "While all of its beliefs are the same as §YNational Socialism§!, Hermann Göring's branch of §YNational Socialism§! is unique in its attempts at deradicalizing some aspects of the ideology, such as advocating for peace while subtly against military expansion against civilized peoples. This branch of §YNational Socialism§! also supports reforms in some areas of the nation.\n\nHowever, §YGöring National Socialism§! maintains a strong cult of personality of both Adolf Hitler and Hermann Göring, constantly pushing for the idea of duty and honour."
 
 # Fascism
- fascism:0 "Fascism"
+ fascism:0 "파시즘"
  fascism_desc:0 "Rooted in a rejection of liberal democracy and Marxism, §YFascism§! believes in radical nationalism, nationalisation of the economy, a corporatist model of society, national rebirth and rule under a strong leader."
 
- clerical_fascism:0 "Clerical Fascism"
+ clerical_fascism:0 "교권적 파시즘"
  clerical_fascism_desc:0 "§YClerical Fascism§! is an ideology that combines the political and economic ideas of fascism and clericalism, a political ideology which puts the leadership or opinion of ordained clergies in the matters of either the church or state."
 
- integralism:0 "Integralism"
+ integralism:0 "통일주의"
  integralism_desc:0 "§YIntegralism§! is inspired by the teachings of the Catholic Church and fascism. It supports a national syndicalist economy, distributism, anti-secularism, anti-liberalism and radical nationalism, it also has a strong focus on decentralization, both politically and economic."
 
- legionarism:0 "Legionarism"
+ legionarism:0 "군단주의"
  legionarism_desc:0 "§YLegionarism§! Is the belief that the Church and State are one, and that the Church should take the apparatus of state, essentially “replacing” it. Legionarism also holds agrarian life as superior to the urban one, having its support base mainly form from peasant and farmers."
 
- falangism:0 "Falangism"
+ falangism:0 "팔랑헤주의"
  falangism_desc:0 "§YFalangism§!, developed by the ideas of José Antonio Primo de Rivera and Ramiro Ledesma, focused on an authoritarian, national syndicalist and secular (although friendly with the church) state. It is considered one of the more revolutionary branches of fascism."
 
- third_positionism:0 "Third Positionism"
+ third_positionism:0 "제3의 위치"
  third_positionism_desc:0 "§YThird Positionism§! is an ideology that emphasizes opposition to both communism and capitalism. Advocates of Third Position politics typically present themselves as "beyond left and right" while syncretizing ideas from each end of the political spectrum, usually reactionary right-wing cultural views and radical left-wing economic views."
 
  # Paternal Autocracy
- authoritarian_democracy:0 "Authoritarian Democracy"
+ authoritarian_democracy:0 "권위민주주의"
  authoritarian_democracy_desc:0 "§YAuthoritarian Democracies§! are systems of government in which a strong and powerful leader is present. Unlike most authoritarian states, Authoritarian Democracies democratically elect this strong leader to spearhead their country into a prosperous era or to be guided through a dark time. Authoritarian Democracies rarely stay as democracies, as their leader will usually stage a political or military coup in order to stay in control."
 
- military_dictatorshipz:0 "Military Dictatorship"
+ military_dictatorshipz:0 "군사독재"
  military_dictatorshipz_desc:0 "A §YMilitary Dictatorship§! is when a country’s military has completely taken over the apparatus of the state to maintain stability. Military dictatorships are common in countries that are so unstable that martial law is required. Military dictatorships are also common in countries with an authoritarian president that is corrupt and disliked by all. In a martial law military dictatorship, the military’s commander-in-chief, usually the president of the said country, takes full control over the country as a dictator. In other countries where their president is disliked, the highest-ranking officer will take control. Or, more accurately, the most liked and influential officer."
 
- theocracy:0 "Theocracy"
+ theocracy:0 "신정"
  theocracy_desc:0 "§YTheocracies§! are systems of government in which the heads of a certain religious organization rule a country in the name of a divine figure, such as a prophet or God. Theocracies weren’t as common in the 20th Century, but the United Kingdom could be classified as one, as the monarch was also the head of the Church of England. A famous example of a theocracy would be Vatican City."
 
- monarchism:0 "Monarchism"
+ monarchism:0 "군주주의"
  monarchism_desc:0 "§YMonarchism§! is a system of government in which a ruling monarch, usually a king or emperor, is the head of state and sometimes head of government of a country. Monarchs are usually limited in power in constitutional monarchies, while absolute monarchies grant them absolute power. This is a hereditary office passed down to the eldest child, predominantly the eldest son."
 
- reactionary_nationalism:0 "Reactionary Nationalism"
+ reactionary_nationalism:0 "반동적 국민주의"
  reactionary_nationalism_desc:0 "§YReactionary Nationalism§! refers to radical nationalist regimes, be they democratic or not, that center their ideology around conservative nationalism rather than ethnic nationalism. Reactionary nationalism movements show strong devotion towards religion, tradition, and culture, while also expressing fervent nationalism akin to other far-right nationalist movements. "
 
- national_corporatism:0 "National Corporatism"
+ national_corporatism:0 "국가 협동주의"
  national_corporatism_desc:0 "§YNational Corporatism§! is an ideology that combines nationalism, authoritarian corporatism and traditionalism. §YNational Corporatism§! advocates for a strong executive power, anti-secularism and for a “Mixed Democracy”, a combination of corporate and popular rule with elections where the representatives are chosen both by direct popular election and as representatives of various corporate groups."
- 
- warlordist_autocracy:0 "Warlordist Autocracy"
+
+ warlordist_autocracy:0 "군벌 독재"
  warlordist_autocracy_desc:0 "More akin to anarchy than a true system of government, §YWarlordist Autocracy§! is the ideological equivalent of the phrase “Might makes right”, in that whoever is the most powerful warlord in an area rules.  Functioning like a sickly form of Military Autocracy, §YWarlordist Autocracy§! often functions with the local warlord ruling as an absolute despot, with ability to influence events based on their personal power."
- 
- duumvirist_federalism:0 "Duumvirist Federalism"
+
+ duumvirist_federalism:0 "이두정 연방제"
  duumvirist_federalism_desc:0 "Arguably the oldest and newest of the post-Stalinist Soviet ideologies, §YDuumvirist Federalism§! is a relic from the past renewed. Based on the old Republican system of Rome, §YDuumvirist Federalism§! utilizes a system of two Ministers that have equal executive powers.  §YDuumvirist Federalism§! often functions as a balance of power between two main factions, who are elected to a state Senate, whose eligibility is determined by monetary and fiscal value."
 
- transitional_regime:0 "Transitional Regime"
+ transitional_regime:0 "과도 정권"
  transitional_regime_desc:0 "§YTransitional Regimes§! usually take the form of §YMilitary Dictatorships§! and §YAuthoritarian Democracies§!, but it's ultimate goal is to restore stability to the nation, and ensure smooth transition to a better form of ideology, mostly in the form of a §YDemocracy§!. As the name indicates, §YTransitional Regimes§! are not meant to be long-term governments, to prevent it from becoming fully Authoritarian."
 
- peronism:0 "Peronism"
+ peronism:0 "페론주의"
  peronism_desc:0 "§YPeronism§! or §YJusticialism§!, is an Argentine political movement based on the ideas of Argentine President Juan Perón. From an outsider prespective, §YPeronism§! can be seen as a blend of nationalism and labourism, populism or "right-wing socialism". Due to it's variant on rhetoric, the current form of §YPeronism§! upholds the beliefs of the "Twenty Peronist Tenets"."
 
 # Conservatism
- liberal_conservatism:0 "Liberal Conservatism"
+ liberal_conservatism:0 "자유보수주의"
  liberal_conservatism_desc:0 "§YLiberal Conservatism§! is a political ideology combining conservative policies with liberal stances, especially on ethical and social issues. It incorporates the classical liberal view of minimal government intervention in the economy, However, it also believes that a strong state is necessary to ensure law and order and social institutions are needed to nurture a sense of duty and responsibility to the nation as well as to guarantee that traditions are respected."
 
- right-wing_populism:0 "Right-Wing Populism"
+ right-wing_populism:0 "좌파 대중주의"
  right-wing_populism_desc:0 "§YRight-Wing Populism§! is a political ideology which combines right-wing politics and populist rhetoric and themes. Its main themes are anti-elitism, socially conservative values, support for “common wisdom” and protection of tradition."
 
- paternalistic_conservatism:0 "Paternalistic Conservatism"
+ paternalistic_conservatism:0 "가부장적 보수주의"
  paternalistic_conservatism_desc:0 "§YPaternalistic Conservatism§! is a strand in conservatism which reflects the belief that societies exist and develop organically and that members within them have obligations towards each other. There is particular emphasis on the paternalistic obligation of those who are privileged and wealthy to the poorer parts of society. Paternal conservatives support neither the individual nor the state in principle, but are instead prepared to support either or recommend a balance between the two depending on what is most practical"
 
- traditionalist_conservatism:0 "Traditionalist Conservatism"
+ traditionalist_conservatism:0 "전통주의"
  traditionalist_conservatism_desc:0 "§YTraditionalist Conservatism§! is a political philosophy emphasizing the need for the principles of natural law and transcendent moral order, tradition, hierarchy, organic unity, classicism, high culture, and the intersecting spheres of loyalty."
 
- national_conservatism:0 "National Conservatism"
+ national_conservatism:0 "국민보수주의"
  national_conservatism_desc:0 "§YNational Conservatism§! is a variant of conservatism that concentrates more on national interests and upholding cultural or ethnic identity than most other conservatives. It also favors agrarianism, economic statist policies and more close cooperation between the market and the State."
 
- fiscal_conservatism:0 "Fiscal Conservatism"
+ fiscal_conservatism:0 "재정보수주의"
  fiscal_conservatism_desc:0 "§YFiscal Conservatism§! is a form of conservatism advocating low taxes,reduced government spending, minimal government debt, free trade, deregulation of the economy, lower taxes and privatization. §YFiscal Conservatives§! are against the government expanding beyond its means through debt and prefers pragmatism on social and cultural issues."
 
 # Liberalism
- social_liberalism:0 "Social Liberalism"
+ social_liberalism:0 "사회자유주의"
  social_liberalism_desc:0 "§YSocial Liberalism§! is a political ideology that believes individual liberty requires a level of social justice. Like classical liberalism, social liberalism endorses a market economy and the expansion of civil and political rights and liberties, but differs in that it believes the legitimate role of the government includes addressing economic and social issues such as poverty, health care and education and will choose pragmatism on social and cultural issues."
 
- classical_Liberalism:0 "Classical Liberalism"
+ classical_Liberalism:0 "고전자유주의"
  classical_Liberalism_desc:0 "§YClassical Liberalism§! is an ideology which views the development and promotion of a market economy with minimal state intervention as an essential aspect of the protection and promotion of individual liberty. It also values rule of law and the belief that the society is no more than the sum of its individual members."
 
- progressivism:0 "Progressivism"
+ progressivism:0 "진보주의"
  progressivism_desc:0 "§YProgressivism§! is a philosophy and ideology that is based on the Idea of Progress, which asserts that advancements in science, technology, economic development, and social organization are vital to the improvement of the human condition."
 
- national_liberalism:0 "National Liberalism"
+ national_liberalism:0 "국민자유주의"
  national_liberalism_desc:0 "§YNational Liberalism§! is a variant of liberalism, combining liberal policies and issues with elements of nationalism. National Liberalism is usually is more accepting of protectionism, state interventionism, militarism and centralization than other forms of liberalism."
 
- conservative_liberalism:0 "Conservative Liberalism"
+ conservative_liberalism:0 "보수자유주의"
  conservative_liberalism_desc:0 "§YConservative Liberalism§! is a variant of liberalism, combining liberal values and policies with conservative stances. It is a less radical variant of classical liberalism. It tends to combine market liberal policies with more traditional stances on social and ethical issues."
 
- market_liberalism:0 "Market Liberalism"
+ market_liberalism:0 "시장자유주의"
  market_liberalism_desc:0 "§YMarket Liberalism§! is an ideology supporting the economic aspects of liberalism, without including the political aspects of liberalism. Market liberalism usually promotes an economically liberal society that also provides a minimal to moderate-sized welfare state for its citizens."
- 
- national_utopianism:0 "National Utopianism"
+
+ national_utopianism:0 "국민이상향주의"
  national_utopianism_desc:0 "A formulation of the Chinese provincial governor of Shanxi, Yan Xishan, §YNational Utopianism§! is a blend of Confucian ethics and modern democratic philosophy.  It is known for being particularly anti-Hoist, a legacy of the CCP’s insurgency in Yan’s province.  Operating on a blend of pseudo-stalinist economics, and Nationalistic governance, §YNational Utopianism§! focuses on quick industrialization, managed by a moral government."
 
- sakharovism:0 "Sakharovism"
+ sakharovism:0 "사하로프주의"
  sakharovism_desc:0 "A uniquely Russian form of Republicanism, §BSakharovism§! focuses on the need to use the economy to continually build and maintain democracy in all walks of life.  Heavily influenced by a combination of Moralism and Hayekian liberal economics, this ideology is specifically oriented towards the policies of post-war reconstruction.  In practice, §BSakharovism§! builds a very open and welcoming republican system, while simultaneously having an open and maneuverable economic system."
 
 # Social Dem.
- left-wing_populism:0 "Left-Wing Populism"
+ left-wing_populism:0 "우파 대중주의"
  left-wing_populism_desc:0 "§YLeft-Wing Populism§! is a political ideology which combines left-wing politics and populist rhetoric and themes. Its main themes are anti-elitism, focus on the common man and its interests, popular sovereignty and economic democracy."
 
- social_patriotism:0 "Social Patriotism"
+ social_patriotism:0 "사회애국주의"
  social_patriotism_desc:0 "§Y Social Patriotism§! is an openly patriotic standpoint which combines patriotism with socialism. It was first identified at the outset of the First World War when a majority of Social Democrats opted to support the war efforts of their respective governments and abandoned socialist internationalism and worker solidarity."
 
- liberal_socialism:0 "Liberal Socialism"
+ liberal_socialism:0 "자유사회주의"
  liberal_socialism_desc:0 "§YLiberal Socialism§! is a socialist political philosophy that incorporates liberal principles. Liberal socialism does not have the goal of abolishing capitalism and replacing it with socialism; instead, it supports a mixed economy that includes both private property and social ownership in capital goods."
 
- social_democracy:0 "Social Democracy"
+ social_democracy:0 "사회민주주의"
  social_democracy_desc:0 "§YSocial Democracy§! is a political ideology that supports economic and social interventions to promote social justice within the framework of a capitalist economy, measures for income redistribution, and regulation of the economy in the general interest and welfare state provisions."
 
- laborism:0 "Laborism"
+ laborism:0 "노동주의"
  laborism_desc:0 "§YLaborism§! is a political doctrine that defends the improvement of the social and economic conditions of the workers. Labor is a current of ideas that is situated in the field of the left and is close to socialism but does not seek to replace capitalist society with a socialist society. It seeks only to create conditions for workers to live in dignity, receive good wages and enjoy the protection of the state."
 
- christian_left:0 "Christian Left"
+ christian_left:0 "기독교 좌파"
  christian_left_desc:0 "The §YChristian Left§! is a range of centre-left and left-wing Christian political and social movements that largely embrace social justice viewpoints and uphold a social gospel. Some Christian leftists have socially conservative views on social issues but lean left on economic issues."
 
- soviet_democracy:0 "Soviet Democracy"
+ soviet_democracy:0 "평의회 민주주의"
  soviet_democracy_desc:0 "An Ideology forged in treason and betrayal, §YSoviet§! §YDemocracy§! Is a system in which the economy is run by the state, but the state is run by the people.  §YSoviet§! §YDemocracy§! criticizes political Marxism as being inherently authoritarian, and seeks to build a more truly representative government while simultaneously applying Pseudo-Marxian economics."
- 
- zhukovist_democracy:0 "Zhukovist Democracy"
+
+ zhukovist_democracy:0 "주코프 민주주의"
  zhukovist_democracy_desc:0 "The result of Zhukovism being forced to adapt to Soviet Democracy, §YZhukovist Democracy§! adapts Zhukovist principles while having a slightly more relaxed hand in civilian life.  §YZhukovist Democracy§! is often followed by those Zhukovists who are disciples of Fyodor Ivanov (Formerly known as Ernst Jünger), and is often concerned greatly with doctrine and praxis over opportunism like that of the NKVD.   §YZhukovist Democracy§! often functions as a government with large amounts of power, but one that is more moral and dedicated to the workers than say, those who follow §RNKVD Socialism§!, leading to a powerful yet generally popular government."
- 
- arab_social_dem:0 "Arab Social Democracy"
+
+ arab_social_dem:0 "아랍 사회민주주의"
  arab_social_dem_desc:0 "§YArab Social Democracy§! is a political ideology based on Pan-Arabism and social democracy. It is distinct from social democracy by holding more radical nationalist beliefs, with elements of populism and revolutionary spirits blended with democracy."
 
- arab_socialism:0 "Arab Socialism"
+ arab_socialism:0 "아랍사회주의"
  arab_socialism_desc:0 "§YArab Socialism§! is a political ideology based on Pan-Arabism and socialism. It is distinct from socialism by holding more radical nationalist beliefs, it also rejects atheism and secularism in favor of a more active role of Islam on the state"
 # Socialist
- agrarian_socialism:0 "Agrarian Socialism"
+ agrarian_socialism:0 "농업사회주의"
  agrarian_socialism_desc:0 "§YAgrarian Socialism§! is a political ideology which combines an agrarian way of life with a socialist economic system. When compared to standard socialist systems which are generally urban/industrial and more progressive in terms of social orientation, many agrarian socialist movements have tended to be rural (with an emphasis on decentralization and non-state forms of collective ownership), locally focused, and traditional/conservative. The emphasis of agrarian socialists is therefore on control, ownership and utilisation of land rather than other means of production."
 
- radical_socialism:0 "Radical Socialism"
+ radical_socialism:0 "급진사회주의"
  radical_socialism_desc:0 "§YRadical Socialism§! is the belief that the means of production and distribution should be given to a centralized workers’ union along with any private property. In syndicalism, workers would be divided into “syndicates” in which all the workers apart of a certain syndicate would make decisions together."
 
- labor_zionism:0 "Labor Zionism"
+ labor_zionism:0 "노동시온주의"
  labor_zionism_desc:0 "§YLabor Zionism§!, or Socialist Zionism, is the left-wing for the Zionist movement, a movement which supports the re-establishment of a Jewish homeland in the Holy Land. It is the significant tendency among Zionists and Zionist organizations. It also shares similar beliefs to socialism."
- 
- democratic_socialism:0 "Democratic Socialism"
+
+ democratic_socialism:0 "민주사회주의"
  democratic_socialism_desc:0 "§YDemocratic Socialism§! is a political theory that allows for a socialist state to have a democratic system of government alongside the public ownership of the means of production. §YDemocratic Socialism§! also emphasizes self-management and democratic management."
 
- zhukovism:0 "Zhukovism"
+ zhukovism:0 "주코프주의"
  zhukovism_desc:0 "As a political theory created by Georgy Zhukov, §YZhukovism§! is a mixture between typical Nationalism and Communism, §YZhukovism§! strives to combine Socialist economics with radical patriotism, and seeing military expansion as a necessary mean to protect the people and values of Socialism."
- 
- hybridist:0 "Hybridist Socialism"
+
+ hybridist:0 "혼합사회주의"
  hybridist_desc:0 "The result of an unholy alliance between the NKVD and the Zhukovists, §YHybridist Socialism§! Is a form of Zhukovism, that also incorporates much of the NKVD’s practices from the reign of Beria.  Dwelling on the need to have a Patriotic, but very well supervised nation, §YHybridist Socialism§! Is a rather fluid ideology, and its policies often depend on which wing has more influence, the NKVD Socialists or Zhukovists."
 
- anarchism:0 "Anarchism"
+ anarchism:0 "아나키즘"
  anarchism_desc:0 "§YAnarchism§! is an anti-authoritarian political philosophy that rejects hierarchies deemed unjust and advocates their replacement with self-managed, self-governed societies based on voluntary, cooperative institutions. These institutions are often described as stateless societies, although several ideas have defined them more specifically as distinct institutions based on non-hierarchical or free associations."
 
  # Bolshevik-Leninism
- trotskyism:0 "Trotskyism"
+ trotskyism:0 "트로츠키주의"
  trotskyism_desc:0 "§YTrotskyism§! is the common name given to the beliefs developed by Leon Trotsky. Trotskyism involves mass industrialization, communism in all countries, the “World Revolution”, as Trotsky put it. Trotskyism also supported the Permanent Revolution and the International Revolution. Trotskyists were massive critics of Joseph Stalin’s leadership, calling the Soviet Union under Stalin either a “deformed workers state or a form of state capitalism itself."
 
- platformism:0 "Platformism"
+ platformism:0 "정강주의"
  platformism_desc:0 "§YPlatformism§! is a tendency within the anarchist movement that stresses the need for tightly organized anarchist organizations that are able to influence working class and peasant movements. Platformist groups reject the model of Leninist vanguardism. They instead aim to make anarchist ideas the leading ideas within the class struggle. Platformism four main principles by which an anarchist organisation should operate, are ideological unity, tactical unity, collective responsibility and federalism."
 
- luxemburgism:0 "Luxemburgism"
+ luxemburgism:0 "룩셈부르크주의"
  luxemburgism_desc:0 "§YLuxemburgism§! is a form of communism developed by Rosa Luxemburg which opposes Leninism. Also known as Council Communism, Luxemburgism opposes many elements of Leninism, including the idea of a proletariat dictatorship. Luxemburgism prefers a less centralized alternative. Luxemburgists felt that a Worker’s Council should rule a communist country, not a strong leader."
 
- bordigism:0 "Bordigism"
+ bordigism:0 "보르디가주의"
  bordigism_desc:0 "§YBordigism§! is a variant of left communism espoused by Marxist Amadeo Bordiga. He was a founder of the Communist Party of Italy and a prominent figure in the International Communist Party. Bordigists do not believe in participating in elections instead they believe that the revolution will only happen when the working class unites to do so."
 
- neo-communism:0 "Neo-Communism"
+ neo-communism:0 "신공산주의"
  neo-communism_desc:0 "§YNeo-Communism§! is a revisionist form of Marxism communism that believes in the necessity of a new mentality so that marxism can survive. It has its roots in the International Communist Opposition and on the Right Opposition of the Soviet Union. It believes that while maintaining the vanguard aspect of Soviet communism, communists must adopt a NEP based economy and cooperate with capitalists as a way to defeat fascism."
 
- council_communism:0 "Council communism"
+ council_communism:0 "평의회 공산주의"
  council_communism_desc:0 "§YCouncil Communism§! is an ideology that is characterized by its opposition to state socialism and its advocacy of workers' councils and soviet democracy as the basis for dismantling the class state. The tenets of council communism is its opposition to the party vanguardism and democratic centralism of Leninist ideologies and its contention that democratic workers' councils arising in the factories and municipalities are the natural form of working class organization and authority."
 
- nkvd_socialism:0 "NKVD Socialism"
+ nkvd_socialism:0 "NKVD 사회주의"
  nkvd_socialism_desc:0 "A by-product of the absurd power gained by the NKVD near the end of the German war,  §YNKVD§! §YSocialism§! is the philosophy that only by government power can Marxism exist.  Practicing a slightly less collectivized and industrial version of Stalinism,  §YNKVD§! §YSocialism§! often draws inspiration from Bukharin’s economic theories, blaming Stalinism as a “Proto-Revisionist” ideology."
- 
- marxism_leninism_kalininism:0 "Marxism-Leninism-Kalininism"
+
+ marxism_leninism_kalininism:0 "마르크스-레닌-칼리닌주의"
  marxism_leninism_kalininism_desc:0 "The result of what some deem a qualitative leap in §TMarxist-Leninist§! theory, §MMarxism-Leninism-Kalininism§! is the result Of Kalinin’s reforms to the Soviet System in his short time as General Secretary.  Differing from Marxism-Leninism in its analysis of the causes of external and internal class struggle, this Ideology often is more electorally devolved, while simultaneously being collectivized.  Equally important in §MMarxism-Leninism-Kalininism§! Is the role of the party to educate the people so as to discourage careerism and corruption within the party and state."
- 
- new_line:0 "New Line"
+
+ new_line:0 "새로운 줄"
  new_line_desc:0 "§YMaoism§! is a variety of Marxism–Leninism that Mao Zedong developed for realising a socialist revolution. The philosophical difference between Maoism and Marxism–Leninism is that the peasantry are the revolutionary vanguard in pre-industrial societies rather than the proletariat, an idea which was originally designed for China.\n\nHowever, Maoism has been fading in popularity due to the Communist's defeat during the Chinese Civil War, but it still holds significant power in certain parts of the Marxist-Leninist community."
 # Marxism-Leninism
- marxism_leninism:0 "Marxism-Leninism"
+ marxism_leninism:0 "마르크스-레닌주의"
  marxism_leninism_desc:0 "§YMarxism-Leninism§! is the political ideology developed by Vladimir Lenin. Marxism-Leninism is considered a variant of Marxism, and supports the idea of a vanguard party and a proletariat dictatorship."
 
- stalinism:0 "Stalinism"
+ stalinism:0 "스탈린주의"
  stalinism_desc:0 "§YStalinism§! is the name given to the beliefs developed by Joseph Stalin during his rule as Premier of the Soviet Union. Stalinism supports mass industrialization, a centralized leadership, a centralized intelligence agency, and “socialism in one country.” Stalinists are opposed heavily by Trotskyists for their more extreme version of communism."
 
- national_communism:0 "National Communism"
+ national_communism:0 "국민공산주의"
  national_communism_desc:0 "§YNational Communism§! combines both Marxist-Leninist principles and elements of nationalism.  It constitutes a break from Marxist principles of internationalism and argues that Communist countries must be allowed to develop their foreign policies independently from the Soviet Union, and emphasizes the historical past, and the national culture, of the nation as precipitating the development of socialism within the nation."
 
- maoism:0 "Hoism"
+ maoism:0 "호자주의"
  maoism_desc:0 "§YHoism§! is the name of the practices developed by Ho Chi Minh during his rule as Chairman of the Socialist Republic of Vietnam. Hoism involves the idea of a permanent revolution, emphasis on the importance of the peasantry, small-scale industrialization, and agricultural collectivization."
 
- real_maoism:0 "Maoism"
+ real_maoism:0 "마오이즘"
  real_maoism_desc:0 "§YMaoism§! is a variety of Marxism–Leninism that Mao Zedong developed for realising a socialist revolution. The philosophical difference between Maoism and Marxism–Leninism is that the peasantry are the revolutionary vanguard in pre-industrial societies rather than the proletariat, an idea which was originally designed for China.\n\nHowever, Maoism has been fading in popularity due to the Communist's defeat during the Chinese Civil War, but it still holds significant power in certain parts of the Marxist-Leninist community."
 
- juche:0 "National Revolution"
+ juche:0 "국민혁명주의"
  juche_desc:0 "§YNational Revolution§!, describes the official state ideology of the Communist Party of Korea. Its early ideas formed by Kim Il-sung, and its development continued after his death, National Revolution emphasizes self-reliance and that people should act as the “masters of the revolution and construction.” The ideology says that a nation must be strong and self-reliant in order to achieve real socialism."
 
- guevarism:0 "Guevarism"
+ guevarism:0 "게바라주의"
  guevarism_desc:0 "§YGuevarism§! is a theory of communism and of military strategy of guerilla warfare created by Marxist Ernesto "Che" Guevara, who developed the idea of a revitalize form of Marxism–Leninism. It advocates the necessity of an “focalist based revolution” and the need of strong focus on agrarian base issues."
 
- ultravisionary_marxism:0 "Ultra-Visionary Marxism"
+ ultravisionary_marxism:0 "초공상적 마르크스주의"
  ultravisionary_marxism_desc:0 "The brainchild of the Ivan Konev, head of the Soviet Union’s NKVD Internal Security Division, and Kaysone Phomvihane, head of the Laotian Communists,  §YUltra-Visionary Marxism§! is the view that only through all pervasive state inclusion can society be transformed.\n\n§YUltra-Visionary Marxism§! also holds belief in the need for eternal revolution, backing revolutionaries all across the world."
- 
- traditionalist_socialism:0 "Traditionalist Socialism"
+
+ traditionalist_socialism:0 "전통사회주의"
  traditionalist_socialism_desc:0 "An entirely new form of socialism, §RTraditionalist Socialism§! combines elements of neo-feudalism, such as hereditary aristocracy, with elements of socialism, such as collective agriculture and ownership.  Created By Vasily Zaytsev in the years following the German-Soviet war, it along with §GTechnocratic Spartanism§! share a desire to create a technological, yet minimalistic society.  §RTraditionalist Socialism§! makes the workers life more simple, peasant-esque lives, while providing social safety nets so as to make that life bearable.  Also present is the return of some traditionalist practices, such as a psuedo State religion and cultural chivalry."
- 
- marxism_leninism_zhukovism:0 "Marxism-Leninism-Zhukovism"
+
+ marxism_leninism_zhukovism:0 "마르크스-레닌-주코프주의"
  marxism_leninism_zhukovism_desc:0 "What many deem to be the furthest left school in modern politics, §RMarxism-Leninism-Zhukovism§! is a synthesis of Zhukovism within already established Marxism-Leninism, created by Vasily Stalin. Focusing on full collectivization of the Nation, along with Military expansionism, this ideology is rather tailored towards diplomatic isolationism.  Viewing the nation as integral to developing socialism, §RMarxism-Leninism-Zhukovism§! Is extremely nationalistic, and is rarely espoused by any groups with Internationalist leanings."
- 
- zhdanovshchina:0 "Zhdanovshchina"
+
+ zhdanovshchina:0 "즈다노프주의"
  zhdanovshchina_desc:0 "§YZhdanovshchina§!, also known as §YZhdanovism§! is an ideological belief that encompasses all aspects of Soviet life. First shunned by the §YTechnocrats§!, §YZhdanovshchina§! has made a return with the strong devotion of Andrei Zhdanov. A belief that is fixated on purifying communism, all aspects of life are covered under its guidelines down to the slightest details. From embracing political education before science and the economy, to ensuring formality within cultural development, §YZhdanovshchina§! is designed to be the true, ultimate form of Soviet Communism, the purest form of Communism that is not diluted by any senseless emotion."
 
 # Specific Parties
@@ -489,7 +489,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  CDA_bolshevik_leninist_party_long:0 "Soviet Red Army Remnants"
  CDA_marxist_leninist_party:0 "Soviet Red Army Remnants"
  CDA_marxist_leninist_party_long:0 "Soviet Red Army Remnants"
- 
+
  CDA_csfsr_national_socialist_party:0 "RKA Remnants"
  CDA_csfsr_national_socialist_party_long:0 "Reichskomissariat Kaukasus Remnants"
  CDA_csfsr_fascist_party:0 "CB"
@@ -527,7 +527,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  KAM_bolshevik_leninist_party_long:0 "Red Army Remnants"
  KAM_marxist_leninist_party:0 "Red Army Remnants"
  KAM_marxist_leninist_party_long:0 "Red Army Remnants"
- 
+
  RAC_national_socialist_party:0 "VAA"
  RAC_national_socialist_party_long:0 "Volga Aryan Association"
  RAC_fascist_party:0 "New Cossack Assembly"
@@ -546,7 +546,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  RAC_bolshevik_leninist_party_long:0 "Red Army Remnants"
  RAC_marxist_leninist_party:0 "Red Army Remnants"
  RAC_marxist_leninist_party_long:0 "Red Army Remnants"
- 
+
  NOG_national_socialist_party:0 "CS"
  NOG_national_socialist_party_long:0 "Caucasian Supremacists"
  NOG_paternal_autocrat_party:0 "Birlik"
@@ -555,7 +555,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  NOG_bolshevik_leninist_party_long:0 "Red Army Remnants"
  NOG_marxist_leninist_party:0 "Red Army Remnants"
  NOG_marxist_leninist_party_long:0 "Red Army Remnants"
- 
+
  KMY_national_socialist_party:0 "CS"
  KMY_national_socialist_party_long:0 "Caucasian Supremacists"
  KMY_paternal_autocrat_party:0 "Kumyk Liberation Front"
@@ -564,7 +564,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  KMY_bolshevik_leninist_party_long:0 "Red Army Remnants"
  KMY_marxist_leninist_party:0 "Red Army Remnants"
  KMY_marxist_leninist_party_long:0 "Red Army Remnants"
- 
+
  LZG_national_socialist_party:0 "CS"
  LZG_national_socialist_party_long:0 "Caucasian Supremacists"
  LZG_paternal_autocrat_party:0 "ULO"
@@ -857,25 +857,25 @@ SHOW_COLLABORATIONS:0 "Collaborations"
 
 #### Western Europe #################################
  GER_national_socialist_party:0 "NSDAP"
- GER_national_socialist_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
- GER_fascist_party:0 "Militärregierung"
- GER_fascist_party_long:0 "Militärregierung"
- GER_paternal_autocrat_party:0 "Militärregierung"
- GER_paternal_autocrat_party_long:0 "Militärregierung"
+ GER_national_socialist_party_long:0 "국가사회주의 독일 노동자당"
+ GER_fascist_party:0 "군사 정부"
+ GER_fascist_party_long:0 "군사 정부"
+ GER_paternal_autocrat_party:0 "군사 정부"
+ GER_paternal_autocrat_party_long:0 "군사 정부"
  GER_conservative_party:0 "Z"
- GER_conservative_party_long:0 "Deutsche Zentrumspartei"
+ GER_conservative_party_long:0 "독일 중앙당"
  GER_liberal_party:0 "DPD"
- GER_liberal_party_long:0 "Demokratische Partei Deutschlands"
+ GER_liberal_party_long:0 "독일 국가민주당"
  GER_social_democrat_party:0 "SPD"
- GER_social_democrat_party_long:0 "Sozialdemokratische Partei Deutschlands"
+ GER_social_democrat_party_long:0 "독일 사회민주당"
  GER_socialist_party:0 "KAPD"
- GER_socialist_party_long:0 "Kommunistische Arbeiterpartei Deutschlands"
+ GER_socialist_party_long:0 "독일 공산주의 노동당"
  GER_bolshevik_leninist_party:0 "KPD-O"
- GER_bolshevik_leninist_party_long:0 "Kommunistische Arbeiterpartei Deutschlands-Opposition"
+ GER_bolshevik_leninist_party_long:0 "독일 공산주의 노동당 반대파"
  GER_marxist_leninist_party:0 "KPD"
- GER_marxist_leninist_party_long:0 "Kommunistische Partei Deutschlands"
+ GER_marxist_leninist_party_long:0 "독일 공산당"
  GER_himmler_national_socialist:0 "NSF"
- GER_himmler_national_socialist_long:0 "Nationalsozialistische Fraktion"
+ GER_himmler_national_socialist_long:0 "국민사회당"
 
  HGR_national_socialist_party:0 "Militärregierung"
  HGR_national_socialist_party_long:0 "Militärregierung"
@@ -1198,7 +1198,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  FIN_marxist_leninist_party_long:0 "Suomen Kommunistinen Puolue (Underground)"
  FIN_communist_party_unbanned_long:0 "Suomen Kommunistinen Puolue"
  FIN_COMMIE_LEGALIZED:0 "§GThe Communist Party is legalized.§!\n"
- 
+
  DEN_national_socialist_party:0 "Übergangsjunta"
  DEN_national_socialist_party_long:0 "Dänisch-Deutsche Übergangsjunta"
  DEN_fascist_party:0 "Dansk Samling"
@@ -1344,7 +1344,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  ALB_bolshevik_leninist_party_long:0 "Partia Komuniste e Shqipërisë"
  ALB_marxist_leninist_party:0 "PPSh"
  ALB_marxist_leninist_party_long:0 "Partia e Punës e Shqipërisë"
- 
+
  BUL_paternal_autocrat_party:0 "Loyalist Movement"
  BUL_paternal_autocrat_party_long:0 "Tsar Loyalist Movement"
  BUL_national_socialist_party:0 "UBNF-NS"
@@ -1482,7 +1482,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  TRK_bolshevik_leninist_party_long:0 "Revolutionary Party of Turkestan"
  TRK_marxist_leninist_party:0 "CPT"
  TRK_marxist_leninist_party_long:0 "Communist Party of Turkestan"
- 
+
  JAP_national_socialist_party:0 "UNP"
  JAP_national_socialist_party_long:0 "Chō Minzokutō"
  JAP_fascist_party:0 "GLP"
@@ -2787,7 +2787,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  VIN_bolshevik_leninist_party:0 "Left Opposition" #Viet Minh was more important in early years
  VIN_bolshevik_leninist_party_long:0 "Left Opposition"
  VIN_liberal_party:0 "ĐDVN"
- VIN_liberal_party_long:0 "Đảng Dân chủ Việt Nam" 
+ VIN_liberal_party_long:0 "Đảng Dân chủ Việt Nam"
  VIN_socialist_party:0 "SPV"
  VIN_socialist_party_long:0 "Socialist Party of Vietnam"
  VIN_paternal_autocrat_party:0 "VNQDĐ"
@@ -2866,7 +2866,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  FFR_bolshevik_leninist_party_long:0 "Ligue Africaine"
  FFR_marxist_leninist_party:0 "LA"
  FFR_marxist_leninist_party_long:0 "Ligue Africaine"
- 
+
  FFP_conservative_party:0 "LFL"
  FFP_conservative_party_long:0 "La France Libre"
 
@@ -2983,10 +2983,10 @@ SHOW_COLLABORATIONS:0 "Collaborations"
 
  QUE_fascist_party:0 "PNCS"
  QUE_fascist_party_long:0 "Parti Nationaliste du Crédit Social"
- 
+
  HOL_SOV_party:0 "CPN"
  HOL_SOV_party_long:0 "Communistische Partij Nederland"
- 
+
  SMO_occupation_bulganin_party:0 "RAF Occupation Command"
  SMO_occupation_con_party:0 "NDP"
  SMO_occupation_con_party_long:0 "Nationaldemokratische Partei"
@@ -2996,7 +2996,7 @@ SHOW_COLLABORATIONS:0 "Collaborations"
  SMO_occupation_ivanov_party_long:0 "Deutsche Versöhnungspartei (German Reconciliation Party)"
  SMO_occupation_military_party:0 "Red Army Command"
  SMO_occupation_NKVD_party:0 "NKVD Occupation Command"
- 
+
 
 #############Remember, theres no Left Wing Radical, Leninist, or Stalinist Party. They are sub ideologies (the thing you use for leaders)#########
 
