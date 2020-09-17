@@ -93,7 +93,7 @@ defined_text = {
 		trigger = {
 			has_country_flag = governor_Carlo_Geloso
 		}
-		localization_key = "Plenipotentiary"
+		localization_key = "전권대리인"
 	}
 	text = {
 		trigger = {
@@ -102,19 +102,19 @@ defined_text = {
 			has_country_flag = mon_ENG_Vacant
 		}
 		}
-		localization_key = "Vacant Throne"
+		localization_key = "빈 왕좌"
 	}
 	text = {
 		trigger = {
 			has_country_flag = FRA_Wilhelm_Schepmann
 		}
-		localization_key = "Reichsvertreter"
+		localization_key = "국가 수장"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Nihal_Atsiz
 		}
-		localization_key = "General Leader"
+		localization_key = "일반적인 지도자"
 	}
 	text = {
 		trigger = {
@@ -126,13 +126,13 @@ defined_text = {
 				has_country_flag = pres_Walther_von_Reichenau
 			}
 		}
-		localization_key = "Reichsprasident"
+		localization_key = "제국대통령"
 	}
 	text = {
 		trigger = {
 			has_country_flag = duumvir_Novikov
 		}
-		localization_key = "Duumvir Secundus"
+		localization_key = "이두정 2인자"
 	}
 }
 defined_text = {
@@ -474,43 +474,43 @@ defined_text = {
 		trigger = {
 			has_country_flag = pres_Wang_Shijie
 		}
-		localization_key = "Wang Shijie"
+		localization_key = "왕스제"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Jiang_Menglin
 		}
-		localization_key = "Jiang Menglin"
+		localization_key = "장멍린"
 	}
 	text = {
 		trigger = {
 			has_country_flag = mon_Akihito
 		}
-		localization_key = "Akihito"
+		localization_key = "아키히토"
 	}
 	text = {
 		trigger = {
 			has_country_flag = mon_Hirohito
 		}
-		localization_key = "Hirohito"
+		localization_key = "히로히토"
 	}
 	text = {
 		trigger = {
 			has_country_flag = mon_Frederick_I
 		}
-		localization_key = "Frederick I"
+		localization_key = "프리드리히 1세"
 	}
 	text = {
 		trigger = {
 			has_country_flag = mon_ENG_Vacant
 		}
-		localization_key = "Vacant Crown"
+		localization_key = "비어있는 왕좌"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Sao_Shwe_Thail
 		}
-		localization_key = "Sao Shwe Thail"
+		localization_key = "싸오쉐다익"
 	}
 	text = {
 		trigger = {
@@ -528,7 +528,7 @@ defined_text = {
 		trigger = {
 			has_country_flag = konigin_juliana
 		}
-		localization_key = "Juliana"
+		localization_key = "율리아나"
 	}
 	text = {
 		trigger = {
@@ -540,13 +540,13 @@ defined_text = {
 		trigger = {
 			has_country_flag = young_simeon
 		}
-		localization_key = "Simeon II"
+		localization_key = "시메온 2세"
 	}
 	text = {
 		trigger = {
 			has_country_flag = hos_marie_i
 		}
-		localization_key = "Marie I"
+		localization_key = "메리 1세"
 	}
 	text = {
 		trigger = {
@@ -660,13 +660,13 @@ defined_text = {
 		trigger = {
 			has_country_flag = pres_Rajendra_Prasad
 		}
-		localization_key = "Rajendra Prasad"
+		localization_key = "라젠드라 프라사드"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Jawaharlal_Nehru
 		}
-		localization_key = "Jawaharlal Nehru"
+		localization_key = "자와할랄 네루"
 	}
 	text = {
 		trigger = {
@@ -678,25 +678,25 @@ defined_text = {
 		trigger = {
 			has_country_flag = mon_Haakon_VII
 		}
-		localization_key = "Haakon VII"
+		localization_key = "호콘 7세"
 	}
 	text = {
 		trigger = {
 			has_country_flag = mon_Olav_V
 		}
-		localization_key = "Olav V"
+		localization_key = "올라프 5세"
 	}
 	text = {
 		trigger = {
 			has_country_flag = mon_Gustav_VI
 		}
-		localization_key = "Gustav VI"
+		localization_key = "구스타프 6세"
 	}
 	text = {
 		trigger = {
 			has_country_flag = mon_Michael_I
 		}
-		localization_key = "Michael I"
+		localization_key = "미하이 1세"
 	}
 	text = {
 		trigger = {
@@ -732,73 +732,73 @@ defined_text = {
 		trigger = {
 			has_country_flag = emperor_takahito
 		}
-		localization_key = "Takahito"
+		localization_key = "타카히토"
 	}
 	text = {
 		trigger = {
 			has_country_flag = king_faisal
 		}
-		localization_key = "Faisal II"
+		localization_key = "파이살 2세"
 	}
 	text = {
 		trigger = {
 			has_country_flag = king_tomislav
 		}
-		localization_key = "Tomislav II"
+		localization_key = "토미슬라브 2세"
 	}
 	text = {
 		trigger = {
 			has_country_flag = king_frederick_IX
 		}
-		localization_key = "Frederick IX"
+		localization_key = "프레데리크 9세"
 	}
 	text = {
 		trigger = {
 			has_country_flag = FRA_Wilhelm_Schepmann
 		}
-		localization_key = "Wilhelm Schepmann"
+		localization_key = "빌헬름 셰프만"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Nihal_Atsiz
 		}
-		localization_key = "Nihal Atsiz"
+		localization_key = "니할 아트스즈"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Paul_von_Lettow_Vorbeck
 		}
-		localization_key = "Paul von Lettow-Vorbeck"
+		localization_key = "파울 폰 레토포어베크"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Eberhard_von_Mackensen
 		}
-		localization_key = "Eberhard von Mackensen"
+		localization_key = "에버하르트 폰 마켄젠"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Wilhelm_Canaris
 		}
-		localization_key = "Wilhelm Canaris"
+		localization_key = "빌헬름 카나리스"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_empty_reich
 		}
-		localization_key = "Vacant"
+		localization_key = "공석"
 	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Walther_von_Reichenau
 		}
-		localization_key = "Walther von Reichenau"
+		localization_key = "발터 폰 라이히헤나우"
 	}
 	text = {
 		trigger = {
 			has_country_flag = duumvir_Novikov
 		}
-		localization_key = "Alexander Novikov"
+		localization_key = "알렉산드르 노비코프"
 	}
 }
 defined_text = {
