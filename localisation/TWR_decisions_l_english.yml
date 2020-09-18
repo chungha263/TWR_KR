@@ -1,10 +1,10 @@
 ﻿l_english:
- debug_decisions:0 "Debug/Testing"
- debug_decisions_toggle:0 "Toggle Testing Decisions"
- debug_kill_hitler:0 "Kill Hitler"
- debug_collapse_ENG:0 "Collapse the British Empire"
- debug_collapse_TA_GER:0 "Collapse the TA (German Victory)"
- debug_collapse_TA_SOV:0 "Collapse the TA (Soviet Victory)"
+ debug_decisions:0 "디버그/테스팅"
+ debug_decisions_toggle:0 "테스트용 디버그 활성화/비활성화"
+ debug_kill_hitler:0 "히틀러 사살"
+ debug_collapse_ENG:0 "대영제국의 붕괴"
+ debug_collapse_TA_GER:0 "토론토 협정의 붕괴 - 독일 승리시"
+ debug_collapse_TA_SOV:0 "토론토 협정의 붕괴 - 소련 승리시"
 
  GER_education:0 "German Education"
  GER_spying_for_hitler:0 "Spying for Hitler"
