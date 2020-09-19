@@ -87,9 +87,9 @@ twrsyria.13.d:0 "Unfortunately, with Kuwait and Cyprus both lost, the war with S
 twrsyria.13.a:0 "No!"
 
 ##greater syria##
-NAT_SYR_fascist:0 "Greater Syrian State"
-NAT_SYR_fascist_ADJ:0 "Syrian"
-NAT_SYR_fascist_DEF:0 "the Greater Syrian State"
+NAT_SYR_fascist:0 "대시리아국"
+NAT_SYR_fascist_ADJ:0 "시리아"
+NAT_SYR_fascist_DEF:0 "대시리아국"
 
 ##Focus##
 SYR_Greater_Syrian_Diplomacy:0 "Greater Syrian Diplomacy"
