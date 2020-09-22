@@ -1,31 +1,31 @@
 ﻿l_english:
 
 #Description
-twregypt.1.t:0 "Cairo Fire"
-twregypt.1.d:0 "The previous day's clashes between Egyptian Police and British Forces in Ismaïlia have ended with the siege of Ismaïlia by 7,000 British troops and a fierce battle between Egyptian and British forces, leaving 71 Egyptians dead and 100 others injured. While the Egyptian Monarchy seems to be willing to comply with British demands, the people of Cairo were furious and took to the streets. Unrest resulted in a massive outbreak of fires in Cairo, specifically targetting European associated buildings.\n\nAnglo-Egyptian relations have now reached a point of peak tension."
-twregypt.1.a:0 "Oh lord..."
+twregypt.1.t:0 "카이로 화재"
+twregypt.1.d:0 "전날 이스마일리아에서 벌어진 이집트 경찰과 영국군의 충돌은 영국군 7000명의 이스마일리아 포위 공격과 이집트군과 영국군의 치열한 전투로 마무리돼 이집트인 71명이 숨지고 100여 명이 다쳤다. 이집트 왕정이 영국의 요구에 기꺼이 응하는 것처럼 보이는 반면 카이로 사람들은 격노하여 거리로 뛰쳐나왔다. 소요사태로 카이로에서 특히 유럽 관련 건물들을 대상으로 한 대규모 화재가 발생하고 있다.\n\n이제 영국과 이집트 관계는 최고 긴장상태에 도달했다."
+twregypt.1.a:0 "오 주여..."
 
-twregypt.53.t:0 "Cairo Fire"
-twregypt.53.d:0 "Recently, a battle instigated by Egyptian aggressors threatening British territory ended with British Victory. However, the people of Egypt have expressed their unreasonable discontent by burning European associated properties in Cairo. The British Government has been alerted and the British people are shocked by such uncivilized barbarism."
-twregypt.53.a:0 "Issue a strong protest."
+twregypt.53.t:0 "카이로 화재"
+twregypt.53.d:0 "최근, 영국 영토를 위협하는 이집트 침략자들에 의해 선동된 전투는 영국의 승리로 끝났다. 그러나 이집트 국민들은 카이로에서 유럽의 유산을 불태우는 등 불합리한 불만을 표출하고 있다. 영국 정부는 경각심을 갖게 되었고 영국 국민들은 그러한 미개한 야만성에 충격을 받고 있다."
+twregypt.53.a:0 "강력히 항의하자"
 
-twregypt.2.t:0 "Martial Law Declared"
-twregypt.2.d:0 "In an attempt to safeguard the monarchy's own wellbeing and appease the British Government, King Farouk has dismissed the current Government and ordered the Council of Ministers to declare Martial Law. The King's Palace is now heavily guarded and the military has been ordered to restore order in the cities of Egypt."
-twregypt.2.a:0 "Order! Order!"
+twregypt.2.t:0 "계엄령 선포"
+twregypt.2.d:0 "파루크 국왕은 왕정을 지키고 영국 정부를 달래기 위한 시도로 현 정부를 해임하고 각료이사회에 계엄령을 선포할 것을 명령했습니다. 왕의 궁전은 현재 경비가 삼엄하고 군대는 이집트 도시들의 질서를 회복하라는 명령을 받았습니다."
+twregypt.2.a:0 "질서! 질서!"
 
-twregypt.3.t:0 "Reports of Illegal Troop Movements"
-twregypt.3.d:0 "Informants in the Egyptian Army have reported strange troop movements within the military, compounded with Italian information on a suspicious group calling themselves the "Free Officers". While it's still unconfirmed information, the Monarchy is forced to stay put in case of a possible upcoming coup."
-twregypt.3.a:0 "Stay put."
+twregypt.3.t:0 "불법 병력 이동 보고"
+twregypt.3.d:0 "이집트 육군의 정보원들은 군 내부의 이상한 병력 이동에 대해 보고했으며, 스스로를 "자유 장교단"이라고 부르는 수상한 단체에 대한 이탈리아의 정보도 함께 보도되었습니다. 아직 확인되지 않은 정보지만, 군주는 다가올 쿠데타 가능성에 대비하여 계속 경계할 수밖에 없습니다."
+twregypt.3.a:0 "꼼짝 말고 있어."
 
-twregypt.4.t:0 "Free Officers Coup"
-twregypt.4.d:0 "After a brief illegal radio address, the Egyptian Military has launched a coup to overthrow the monarchy under the guise of overthrowing the oppressive regime and ousting the British imperialists from Egyptian soil. While a Revolutionary Government has been set up, the true power lies in the hands of the Military. On top of that, the overthrown Monarchist Government is still at large, and the question on how the situation will unfold remains uncertain."
-twregypt.4.a:0 "Egyptian drama..."
+twregypt.4.t:0 "자유 장교단 쿠데타"
+twregypt.4.d:0 "이집트 군부는 잠시 불법 라디오 연설을 한 뒤에 압제 정권을 전복하고 영국 제국주의자들을 이집트 땅에서 몰아낸다는 미명 아래 군주제를 전복시키기 위해 쿠데타를 일으켰습니다. 혁명 정부가 수립된 동안, 진정한 권력은 군대의 손에 있습니다. 여기에 전복된 군주제 정부가 여전히 총체적 상태여서 사태가 어떻게 전개될지에 대한 의문은 여전히 불투명합니다."
+twregypt.4.a:0 "이집트인들의 드라마다..."
 
-twregypt.5.t:0 "Question of the Monarchy"
-twregypt.5.d:0 "Under pressure from both the Egyptian Government and the people of Egypt, King Farouk is 'advised' by his close confidants to abdicate the throne. However, Italian and British agents have notified him that the monarchy might be preserved via foreign intervention. The Italians offered King Farouk safety and a position in Egypt on the sole condition that King Farouk abdicates and allow a regency to be formed, while the British offered for King Farouk to retain his position as monarch with the condition of future reforms to benefit British interests."
-twregypt.5.a:0 "The monarchy must go... for good."
-twregypt.5.b:0 "Seek Italian Support."
-twregypt.5.c:0 "Seek British Support."
+twregypt.5.t:0 "군주제에 대한 질문"
+twregypt.5.d:0 "이집트 정부와 이집트 국민 모두의 압력에 눌려 파루크 왕은 측근들로부터 왕위에서 물러나게끔 '조언'을 받았습니다. 하지만 이탈리아와 영국 요원들은 그에게 외국의 개입을 통해 왕정이 유지될 수도 있다고 통보했습니다. 이탈리아인들은 파루크 국왕이 퇴위하고 섭정이 성립될 수 있도록 하는 유일한 조건으로 파루크 국왕의 안전과 이집트에서의 지위를 제공했고, 영국은 파루크 국왕이 영국의 이익을 위해 향후 개혁을 조건으로 군주로서의 지위를 유지할 것을 제안했습니다."
+twregypt.5.a:0 "우리는 영원히 군주제로 가야한다..."
+twregypt.5.b:0 "이탈리아의 도움을 찾아라."
+twregypt.5.c:0 "영국의 도움을 찾아라."
 
 twregypt.6.t:0 "The Regent Counter Coup"
 twregypt.6.d:0 "With Italian Support and some secret dealings with many Egyptian Officers, causing some previously loyal Free Officers to defect alongside their men, the military's unity has been crippled, and the Revolutionary Council and remaining elements of the Free Officers are now outnumbered and facing a dangerous situation. After a brief but impossible fight in major urban centers of Egypt, the Revolutionary Government has escaped to Palestine. Major figures such as Nasser and Naguib are now in exile, with other supposedly Free Officer Corps supporters defecting and denouncing the two individuals. \n\nThe Regency Government reigns supreme."
@@ -70,15 +70,15 @@ twregypt.70.a:0 "Welcome, Egyptian brothers!"
 
 
 #### Ideas ####
-EGY_western_influence:0 "British Influence"
+EGY_western_influence:0 "영국의 영향력"
 EGY_western_influence_desc:0 "With the United Kingdom still stationing themselves in the Suez Canal and the Egyptian Government still heavily influenced by the British, the economy and political situation of Egypt are still under the control of Western Elites."
-EGY_italian_influence:0 "Italian Influence"
+EGY_italian_influence:0 "이탈리아의 영향력"
 EGY_italian_influence_desc:0 "The Italian backed Regent Government is cooperative and accepting towards Italian ideals, with favorable trade deals and more access to Egypt for the Italian regime. While the Italian Influence isn't as strong as the old British influence used to be, Italian-Egyptian relations certainly result in a nation leaning away from the Western powers."
-EGY_discontented_population:0 "Discontent Population"
+EGY_discontented_population:0 "불만족스러운 사람들"
 EGY_discontented_population_desc:0 "The Egyptian Government has been widely unpopular with the many strict laws and oppression enforced onto the population. Unrest and riots are common, and this will surely continue if things were to carry on as usual."
-EGY_matter_of_the_canal:0 "Matters of the Canal"
+EGY_matter_of_the_canal:0 "운하의 문제"
 EGY_matter_of_the_canal_desc:0 "With the Suez Canal still occupied by Britain, Egypt is still in dire need of unification and the people are eager to unite the nation once more, away from the hands of the Western imperialists."
-EGY_italian_settlement:0 "Italian Settlement"
+EGY_italian_settlement:0 "이탈리아인 정착지"
 ### Army ###
 
 
@@ -92,8 +92,8 @@ EGY_italian_settlement:0 "Italian Settlement"
 
 
 #### Politics ####
-EGY_free_officers:0 "Military Junta"
-EGY_free_officers_long:0 "Free Officers Junta"
+EGY_free_officers:0 "군사 정부"
+EGY_free_officers_long:0 "자유 장교단 "
 
 #### FORIEGN POLICY ####
 
