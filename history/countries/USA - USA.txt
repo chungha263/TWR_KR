@@ -31,6 +31,8 @@ set_variable = {
 	var = congress_frame_variable
 	value = 10
 }
+clamp_variable = { var = congress_house_support min = 0 max = 100 }
+clamp_variable = { var = congress_senate_support min = 0 max = 100 }
 set_country_flag = twr_nuke_enabled_flag
 #######################
 # Research

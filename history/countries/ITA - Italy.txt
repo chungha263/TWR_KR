@@ -390,6 +390,9 @@ set_country_flag = umberto_ii
 set_country_flag = has_symbolic_figurehead	
 set_country_flag = ITA_miltree
 set_country_flag = normal_italy
+
+italian_gui_set_up = yes
+
 #######################
 # Diplomacy
 #######################

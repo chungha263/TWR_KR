@@ -8,6 +8,7 @@ defined_text = {
 				has_country_flag = konigin_juliana
 				has_country_flag = umberto_ii
 				has_country_flag = young_simeon
+				has_country_flag = young_simeon_belev
 				has_country_flag = hos_marie_i
 				has_country_flag = mon_Haakon_VII
 				has_country_flag = mon_Olav_V
@@ -24,6 +25,12 @@ defined_text = {
 				has_country_flag = mon_Frederick_I
 				has_country_flag = mon_Akihito
 				has_country_flag = mon_Hirohito
+				has_country_flag = mon_Peter_II
+				has_country_flag = mon_Filiberto_I
+				has_country_flag = mon_Otto_II
+				has_country_flag = mon_Paul_GRE
+				has_country_flag = mon_Paul_GRE_oofed
+				has_country_flag = mon_Nicholas_I
 			}
 		}
 		localization_key = "군주"
@@ -31,7 +38,9 @@ defined_text = {
 	text = {
 		trigger = {
 			OR = {
-			has_country_flag = emperor_takahito
+				has_country_flag = emperor_takahito
+				has_country_flag = prince_kiril
+				has_country_flag = regent_Vilmos_Apor
 			}
 		}
 		localization_key = "섭정"
@@ -73,6 +82,8 @@ defined_text = {
 				has_country_flag = pres_Sao_Shwe_Thail
 				has_country_flag = pres_Wang_Shijie
 				has_country_flag = pres_Jiang_Menglin
+				has_country_flag = pres_Ante_Vokic
+				has_country_flag = pres_Giziks
 			}
 		}
 		localization_key = PRES
@@ -100,6 +111,8 @@ defined_text = {
 		OR = {
 			has_country_flag = mon_Vacant
 			has_country_flag = mon_ENG_Vacant
+			has_country_flag = HUN_vacant_throne
+			has_country_flag = SER_vacant_throne
 		}
 		}
 		localization_key = "빈 왕좌"
@@ -113,6 +126,7 @@ defined_text = {
 	text = {
 		trigger = {
 			has_country_flag = pres_Nihal_Atsiz
+			has_country_flag = gov_John_Alan_Francis_Harding
 		}
 		localization_key = "일반적인 지도자"
 	}
@@ -137,6 +151,42 @@ defined_text = {
 }
 defined_text = {
 	name = get_hos_pic
+	text = {
+		trigger = {
+			has_country_flag = mon_Paul_GRE
+		}
+		localization_key = "GFX_Portrait_GRE_Paul_I"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Paul_GRE_oofed
+		}
+		localization_key = "GFX_Portrait_GRE_Paul_I_oofed"
+	}
+	text = {
+		trigger = {
+			has_country_flag = pres_Giziks
+		}
+		localization_key = "GFX_Portrait_Phaedon_Gizikis"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Filiberto_I
+		}
+		localization_key = "GFX_Portrait_Prince_Filiberto"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Otto_II
+		}
+		localization_key = "GFX_Portrait_Otto_von_Habsburg"
+	}
+	text = {
+		trigger = {
+			has_country_flag = regent_Vilmos_Apor
+		}
+		localization_key = "GFX_portrait_Vilmos_Apor"
+	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Wang_Shijie
@@ -187,6 +237,12 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			has_country_flag = prince_kiril
+		}
+		localization_key = "GFX_portrait_prince_kiril"
+	}
+	text = {
+		trigger = {
 			has_country_flag = konigin_juliana
 		}
 		localization_key = "GFX_portrait_juliana"
@@ -200,6 +256,12 @@ defined_text = {
 	text = {
 		trigger = {
 			has_country_flag = young_simeon
+		}
+		localization_key = "GFX_portrait_simeon_young"
+	}
+	text = {
+		trigger = {
+			has_country_flag = young_simeon_belev
 		}
 		localization_key = "GFX_portrait_simeon_young"
 	}
@@ -391,6 +453,18 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			has_country_flag = HUN_vacant_throne
+		}
+		localization_key = "GFX_portrait_Hungarian_Crown"
+	}
+	text = {
+		trigger = {
+			has_country_flag = SER_vacant_throne
+		}
+		localization_key = "GFX_Portrait_SER_Vacant_Throne"
+	}
+	text = {
+		trigger = {
 			has_country_flag = emperor_takahito
 		}
 		localization_key = "GFX_portrait_Takahito"
@@ -467,9 +541,75 @@ defined_text = {
 		}
 		localization_key = "GFX_portrait_Novikov"
 	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Peter_II
+		}
+		localization_key = "GFX_portrait_Peter_II"
+	}
+	text = {
+		trigger = {
+			has_country_flag = gov_John_Alan_Francis_Harding
+		}
+		localization_key = "GFX_Portrait_John_Alan_Francis_Harding"
+	}
+	text = {
+		trigger = {
+			has_country_flag = pres_Ante_Vokic
+		}
+		localization_key = "GFX_Portrait_Ante_Vokic"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Nicholas_I
+		}
+		localization_key = "GFX_Portrait_Nicholas_I"
+	}
 }
 defined_text = {
 	name = get_hos_name
+	text = {
+		trigger = {
+			has_country_flag = mon_Nicholas_I
+		}
+		localization_key = "Nicholas I"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Paul_GRE
+		}
+		localization_key = "Paul"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Paul_GRE_oofed
+		}
+		localization_key = "Paul"
+	}
+	text = {
+		trigger = {
+			has_country_flag = pres_Giziks
+		}
+		localization_key = "Phaedon Gizikis"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Filiberto_I
+		}
+		localization_key = "Filiberto I"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Otto_II
+		}
+		localization_key = "Otto II"
+	}
+	text = {
+		trigger = {
+			has_country_flag = regent_Vilmos_Apor
+		}
+		localization_key = "Vilmos Apor"
+	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Wang_Shijie
@@ -539,6 +679,12 @@ defined_text = {
 	text = {
 		trigger = {
 			has_country_flag = young_simeon
+		}
+		localization_key = "시메온 2세"
+	}
+	text = {
+		trigger = {
+			has_country_flag = young_simeon_belev
 		}
 		localization_key = "시메온 2세"
 	}
@@ -730,6 +876,18 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			has_country_flag = HUN_vacant_throne
+		}
+		localization_key = Vacant_crown
+	}
+	text = {
+		trigger = {
+			has_country_flag = SER_vacant_throne
+		}
+		localization_key = Vacant_crown
+	}
+	text = {
+		trigger = {
 			has_country_flag = emperor_takahito
 		}
 		localization_key = "타카히토"
@@ -800,9 +958,69 @@ defined_text = {
 		}
 		localization_key = "알렉산드르 노비코프"
 	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Peter_II
+		}
+		localization_key = "Petar II"
+	}
+	text = {
+		trigger = {
+			has_country_flag = gov_John_Alan_Francis_Harding
+		}
+		localization_key = "John Alan Francis Harding"
+	}
+	text = {
+		trigger = {
+			has_country_flag = pres_Ante_Vokic
+		}
+		localization_key = "Ante Vokic"
+	}
 }
 defined_text = {
 	name = get_hos_desc
+	text = {
+		trigger = {
+			has_country_flag = mon_Nicholas_I
+		}
+		localization_key = Nicholas_DESC
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Paul_GRE
+		}
+		localization_key = Paul_DESC
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Paul_GRE_oofed
+		}
+		localization_key = Paul_DESC_2
+	}
+	text = {
+		trigger = {
+			has_country_flag = pres_Giziks
+		}
+		localization_key = Gizikis_DESC
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Filiberto_I
+		}
+		localization_key = Filiberto_I_DESC
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Otto_II
+		}
+		localization_key = Otto_II_DESC
+	}
+	text = {
+		trigger = {
+			has_country_flag = regent_Vilmos_Apor
+		}
+		localization_key = regent_Vilmos_Apor_DESC
+	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Wang_Shijie
@@ -859,6 +1077,12 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			has_country_flag = prince_kiril
+		}
+		localization_key = prince_kiril_DESC
+	}
+	text = {
+		trigger = {
 			has_country_flag = konigin_juliana
 		}
 		localization_key = HOL_juliana_hos_desc
@@ -872,6 +1096,12 @@ defined_text = {
 	text = {
 		trigger = {
 			has_country_flag = young_simeon
+		}
+		localization_key = Simeon_desc
+	}
+	text = {
+		trigger = {
+			has_country_flag = young_simeon_belev
 		}
 		localization_key = Simeon_desc
 	}
@@ -1063,6 +1293,18 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			has_country_flag = HUN_vacant_throne
+		}
+		localization_key = HUN_vacant_crown_desc
+	}
+	text = {
+		trigger = {
+			has_country_flag = SER_vacant_throne
+		}
+		localization_key = SER_vacant_crown_desc
+	}
+	text = {
+		trigger = {
 			has_country_flag = emperor_takahito
 		}
 		localization_key = Takahito_desc
@@ -1133,6 +1375,24 @@ defined_text = {
 		}
 		localization_key = Novikov_DESC
 	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Peter_II
+		}
+		localization_key = Peter_II_DESC
+	}
+	text = {
+		trigger = {
+			has_country_flag = gov_John_Alan_Francis_Harding
+		}
+		localization_key = John_Alan_Francis_Harding_DESC
+	}
+	text = {
+		trigger = {
+			has_country_flag = pres_Ante_Vokic
+		}
+		localization_key = Ante_Vokic_DESC
+	}
 }
 defined_text = {
 	name = get_hos_modifier
@@ -1154,13 +1414,19 @@ defined_text = {
 				has_country_flag = mon_Haakon_VII
 				has_country_flag = mon_Olav_V
 				has_country_flag = mon_Gustav_VI
-				has_country_flag = mon_Michael_I
+				AND = {
+					has_country_flag = mon_Michael_I
+					original_tag = ROM
+				}
+				has_country_flag = regent_Vilmos_Apor
 				has_country_flag = mon_Rama_IX
 				has_country_flag = king_frederick_IX
 				has_country_flag = pres_Sao_Shwe_Thail
 				has_country_flag = pres_Paul_von_Lettow_Vorbeck
 				has_country_flag = mon_Akihito
 				has_country_flag = mon_Hirohito
+				has_country_flag = mon_Peter_II
+				has_country_flag = mon_Otto_II
 			}
 		}
 		localization_key = popular_modifier
@@ -1171,6 +1437,7 @@ defined_text = {
 				has_country_flag = konigin_juliana
 				has_country_flag = umberto_ii
 				has_country_flag = young_simeon
+				has_country_flag = prince_kiril
 				has_country_flag = hos_marie_i
 				has_country_flag = gg_Harold_Alexander
 				has_country_flag = gg_Vincent_Massey
@@ -1193,6 +1460,9 @@ defined_text = {
 				has_country_flag = duumvir_Novikov
 				has_country_flag = pres_Wang_Shijie
 				has_country_flag = pres_Jiang_Menglin
+				has_country_flag = mon_Filiberto_I
+				has_country_flag = pres_Ante_Vokic
+				has_country_flag = mon_Nicholas_I
 			}
 		}
 		localization_key = mediocre_modifier
@@ -1202,6 +1472,11 @@ defined_text = {
 			OR = {
 				has_country_flag = rk_josef_terboven
 				has_country_flag = governor_Carlo_Geloso
+				AND = {
+					has_country_flag = mon_Michael_I
+					NOT = { original_tag = ROM }
+				}
+				has_country_flag = gov_John_Alan_Francis_Harding
 			}
 		}
 		localization_key = tyranical_modifier
@@ -1212,6 +1487,13 @@ defined_text = {
 				has_country_flag = pres_empty_reich
 				has_country_flag = mon_ENG_Vacant
 				has_country_flag = mon_Frederick_I
+				has_country_flag = HUN_vacant_throne
+				has_country_flag = SER_vacant_throne
+				has_country_flag = mon_Vacant
+				has_country_flag = young_simeon_belev
+				has_country_flag = pres_Giziks
+				has_country_flag = mon_Paul_GRE
+				has_country_flag = mon_Paul_GRE_oofed
 			}
 		}
 		localization_key = none_modifier
@@ -1219,6 +1501,60 @@ defined_text = {
 }
 defined_text = {
 	name = get_hos_desc_2
+	text = {
+		trigger = {
+			has_country_flag = mon_Nicholas_I
+		}
+		localization_key = ROM_II_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = SER_vacant_throne
+		}
+		localization_key = SER_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = pres_Giziks
+		}
+		localization_key = GRE_II_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Paul_GRE
+		}
+		localization_key = GRE_III_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Paul_GRE_oofed
+		}
+		localization_key = GRE_IV_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = HUN_vacant_throne
+		}
+		localization_key = HUN_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = regent_Vilmos_Apor
+		}
+		localization_key = HUN_II_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Filiberto_I
+		}
+		localization_key = HUN_III_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Otto_II
+		}
+		localization_key = HUN_IV_HOS_DESCRIPTION
+	}
 	text = {
 		trigger = {
 			has_country_flag = pres_Wang_Shijie
@@ -1287,7 +1623,19 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			has_country_flag = prince_kiril
+		}
+		localization_key = BUL_HOS_II_DESCRIPTION
+	}
+	text = {
+		trigger = {
 			has_country_flag = young_simeon
+		}
+		localization_key = BUL_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = young_simeon_belev
 		}
 		localization_key = BUL_HOS_DESCRIPTION
 	}
@@ -1479,6 +1827,18 @@ defined_text = {
 	}
 	text = {
 		trigger = {
+			has_country_flag = HUN_vacant_throne
+		}
+		localization_key = SPA_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = SER_vacant_throne
+		}
+		localization_key = SPA_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
 			has_country_flag = emperor_takahito
 		}
 		localization_key = JAP_I_HOS_DESCRIPTION
@@ -1548,5 +1908,17 @@ defined_text = {
 			has_country_flag = duumvir_Novikov
 		}
 		localization_key = SOV_I_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_Peter_II
+		}
+		localization_key = SER_II_HOS_DESCRIPTION
+	}
+	text = {
+		trigger = {
+			has_country_flag = gov_John_Alan_Francis_Harding
+		}
+		localization_key = CPY_II_HOS_DESCRIPTION
 	}
 }
