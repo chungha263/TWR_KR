@@ -117,7 +117,7 @@
  twrffr.972.b:0 "Keep the important ones."
  twrffr.972.c:0 "Just give them a token amount."
  twrffr.973.t:0 "Free French Demands"
- twrffr.973.d:0 "Our powerful neighours down South have requested our immediate submission; they have promised to allow us a great amount of autonomy but also stated that refusing this favourable deal would mean total destruction of the Saharan Council."
+ twrffr.973.d:0 "Our powerful neighours down South have requested our immediate submission; they have promised to allow us a great amount of autonomy but also stated that refusing this favourable deal would mean total destruction of regional stability."
  twrffr.973.b:0 "We have no choice."
  twrffr.973.a:0 "Never!"
  twrffr.8.t:0 "Déclaration Unilatérale d'Indépendance"
@@ -281,6 +281,29 @@
  FFR_unstable_confederation_2_desc:0 "Nationalists across the Confederation are now openly revolting against the Central Government, creating a wide range of troubles."
  FFR_unstable_confederation_3:0 "A New West Africa"
  FFR_unstable_confederation_3_desc:0 "The newly forged West African Confederation is still a largely unstable nation. However, with enough time, hopefully a common national identity can be created to form a cohensive mega-state in Africa."
+ twrNewFrance.1.t:0 "De Gaulle Takes a Step Towards Paris"
+ twrNewFrance.1.d:0 "Today, President Charles de Gaulle has made a radio announcement to the people of Free France. In his speech, he spoke of reunification with the resistance forces in Paris, bringing an end to the separation and once again making the nation whole. President de Gaulle's ideas are, for the most part, simple; a total reunification of France on all levels, including government, economic, and military. \n\nThe proposal for reunification has already been sent to Paris, and we eagerly await their response."
+ twrNewFrance.1.a:0 "Perhaps France shall soon be whole again."
+ twrNewFrance.2.t:0 "De Gaulle Proposes Unification"
+ twrNewFrance.2.d:0 "A proposal has recently arrived. General Charles de Gaulle - President of Free France - has proposed unification with our government. The proposal includes a unified government, military, and economy, as well as a series of economic projects to strengthen the French economy. However, the matter of whether to accept this or pursue our own path is a divisive issue, to say the least - not only in the French government, but within the president's own mind. \n\nHow shall we respond to Dakar?"
+ twrNewFrance.2.a:0 "France shall outlive both de Gaulle and our president. Accepted."
+ twrNewFrance.2.b:0 "Give us liberty or give us death!"
+ twrNewFrance.3.t:0 "[FRA.GetNameDef] Declines Our Plan"
+ twrNewFrance.3.d:0 "Unfortunately, it seems that our dream of French reunification shall not be realised. The French government has refused our offer, and we are now left in the same place we started - with two Frances, separated by nothing but desert."
+ twrNewFrance.3.a:0 "C'est la vie!"
+
+ twrNewFrance.404.t:0 "French Reunification"
+ twrNewFrance.404.d:0 "For years, two separate regimes claimed the ownership of France, with both of these governments claiming to be the legitimate France.\n\nThis situation was created shortly after the Anglo-German Ceasefire, with the Free French Committee continuing to function in British-occupied French colonies against the wishes of the French State. However, the recent political developments within both of these governments have allowed a dialogue to be opened, eventually leading to the reunification agreement, ending the age of two opposing French governments for a reunified France."
+ twrNewFrance.404.a:0 "France is whole again."
+ twrNewFrance.404.b:0 "Vive la France!"
+
+ twrNewFrance.405.t:0 "Liberation of France"
+ twrNewFrance.405.d:0 "As the last strongholds of French State loyalists begin to disarm, the victorious Free French has successfully overthrew the previous regime, returning to Paris as the nation's sole legitimate government.\n\nThanks to the Free French's resilience against the previous government, the national resistance movement is now finally completed. While many have fallen for this task, the people can now mourn, and enter the process of readjustment to a new life, as a new chapter of hope dawns for France."
+ twrNewFrance.405.a:0 "From Dakar to Paris."
+ twrNewFrance.405.b:0 "Liberty, at last!"
+
+ FRA_Talk_to_Dakar2:0 "Talk to Paris"
+ FRA_Talk_to_Dakar2_desc:0 "The New French government remains a constant topic brought up by parliament and the public at large. The very existence of this state brings up an interesting question. Now in control of Paris, they may be willing to talk..."
 
  FFR_Segregation_Forever:0 "Lazarian Segregation"
 

@@ -1,13 +1,13 @@
 ﻿l_english:
 
-view_UN_button_tt:0 "UN 화면 열기"
-TWR_UN_member_icon_tt:0 "국제연합 회원국"
+view_UN_button_tt:0 "Open UN Screen"
+TWR_UN_member_icon_tt:0 "Member of the United Nations"
 TWR_UNSC_flag_icon_tt:0 "[THIS.GetName]"
 TWR_UN_flag_icon_tt:0 "[THIS.GetName]"
-TWR_UN_resolution_title:0 "[ROOT.GetCurrentResolution]\n§G찬성§!: [?global.un_resolution_vote_yes]  §R반대§!: [?global.un_resolution_vote_no]  §Y기권§!: [?global.un_resolution_vote_abstain]"
-UN_FLAVOUR_TOOLTIP:0 "국제연합 - 정보\n\n§gCreated from the ashes of the failed League of Nations after the defeat of Japan, the United Nations is an international organisation that aims to act as a forum for international diplomacy, a promoter of peace and collective security and international cooperation. First outlined in the 1943 Sydney Declaration, it would eventually be founded and based in New York City, with its first meetings held in 1945. With most nations in a Nazi-dominated Europe notably absent, Germania explicitly refusing to acknowledge the authority of any international organisation, it nonetheless has member-states across much of the globe, including the initial Permanent Security Council members of the United States, United Kingdom, Republic of China and Dominion of Canada.§!"
+TWR_UN_resolution_title:0 "[ROOT.GetCurrentResolution]\n§GYes§!: [?global.un_resolution_vote_yes]  §RNo§!: [?global.un_resolution_vote_no]  §YAbstain§!: [?global.un_resolution_vote_abstain]"
+UN_FLAVOUR_TOOLTIP:0 "§YInformation - The United Nations§!\n\n§gCreated from the ashes of the failed League of Nations after the defeat of Japan, the United Nations is an international organisation that aims to act as a forum for international diplomacy, a promoter of peace and collective security and international cooperation. First outlined in the 1943 Sydney Declaration, it would eventually be founded and based in New York City, with its first meetings held in 1945. With most nations in a Nazi-dominated Europe notably absent, Germania explicitly refusing to acknowledge the authority of any international organisation, it nonetheless has member-states across much of the globe, including the initial Permanent Security Council members of the United States, United Kingdom, Republic of China and Dominion of Canada.§!"
 
-TWR_maho_waifu_resolution:0 "§Y마호는 나의 신부§!"
+TWR_maho_waifu_resolution:0 "§YMaho is My Waifu§!"
 TWR_indonesian_revolt_resolution:0 "§YCeasefire in the Indonesian Revolt§!"
 TWR_un_germany_resolution:0 "§YRecognise Long-Term UN Occ. of Germany§!"
 TWR_ta_germany_war_resolution:0 "§YBack the War Against Germany§!"
@@ -21,9 +21,9 @@ twrta.8888.a:0 "Oh well."
 UN_resolution_japan:0 "§CStarts UN Resolution for intervening in Japan§!"
 un_japan_resolution:0 "UN Intervention in Japan"
 
-TWR_voting_yes:0 "§G찬성§!"
-TWR_voting_no:0 "§R반대§!"
-TWR_voting_abstain:0 "§Y기권§!"
+TWR_voting_yes:0 "§GYes§!"
+TWR_voting_no:0 "§RNo§!"
+TWR_voting_abstain:0 "§YAbstain§!"
 
 ## occupation of Germany ##
 

@@ -1037,6 +1037,41 @@
     twritalyforeign.68.d:0 "The US has approached us and opened up diplomacy between our two nations. This offers us some possibilities."
     twritalyforeign.68.a:0 "Interesting..."
 
+    twritalyforeign.69.t:0 "A New Face in Germany"
+    twritalyforeign.69.d:0 "While our nation view the German Civil War as nothing but a squabble between power hungry Nazis, an individual rose to the occasion, gathering the interest of our ministers.\n\nHans Speidel has labelled himself as a unique leader in a state filled with Nazis, bearing an ideology similar to Mussolini's fascism. Comparing to the rest of the scums, this "moderate" might prove himself to be beneficial for Italian-German relationship, and a gambit to ensure peaceful coexistence along the Northern borders."
+    twritalyforeign.69.a:0 "We will watch his career with great interest..."
+
+    twritalyforeign.70.t:0 "Italian Support"
+    twritalyforeign.70.d:0 "Motivated by the desire of a modest Germany, the Kingdom of Italy has sent us a shipment of infantry equipment and a sizable "support staff team"."
+    twritalyforeign.70.a:0 "Danke, Italien!"
+
+    twritalyforeign.71.t:0 "Italy Escalates Their Support"
+    twritalyforeign.71.d:0 "Determined to push our government to victory, the Italians have escalated their support, promising greater involvement and military support, suggesting the possibility of the entrance of volunteer military formations."
+    twritalyforeign.71.a:0 "For a better future!"
+
+    twritalyforeign.72.t:0 "Speidel's Victory"
+    twritalyforeign.72.d:0 "Against the overwhelming Nazi forces, Hans Speidel has managed to secure his position as leader of Germany. With this, our volunteers learnt valuable lessons regarding the German way of warfare, growing more experienced than ever before with great eagerness to share their newly gained insights."
+    twritalyforeign.72.a:0 "Victory!"
+
+    twritalyforeign.73.t:0 "Italian Intervention in Germany"
+    twritalyforeign.73.d:0 "With unexpected developments in Europe, the Italian regime has threw their committed support behind Hans Speidel's regime. Promising greater military support and involvement, Italy now has an invested interest in the outcome of the German Civil War, which might grant Speidel a significant advantage against his enemies.\n\nOffically, Italy's reason for intervention is to restore German stability, but it is assumed that this major political maneuver was motivated by the Italian desire for a friendly German regime, which would greatly increase Italian influence on the world stage."
+    twritalyforeign.73.b:0 "Per l'Italia!"
+    twritalyforeign.73.a:0 "A surprise, for sure!"
+    twritalyforeign.73.c:0 "Italy and Germany, together!"
+
+    twritalyforeign.74.t:0 "Italian-Greek Conference"
+    twritalyforeign.74.d:0 "It was a great delight to us when the Italian-inspired, pro-Rome fascists asserted their power in our ally, Greece. Now, to create a more permanent, stable, settlement between our two nations within the Mediterranean Pact, the Greek government has come to us, requesting a step-by-step independence reunification of all of Greece. In response for them rapidly paying off their debts to us and providing us with other resources, they request that we relinquish our occupation of Greek islands and slowly give their government more and more independence as an ally. How should we respond?"
+    twritalyforeign.74.a:0 "We accept!"
+    twritalyforeign.74.b:0 "This is unacceptable!"
+
+    twritalyforeign.75.t:0 "Rome Accepts"
+    twritalyforeign.75.d:0 "The Italian government has accepted our plan. We can now begin to put it into action."
+    twritalyforeign.75.a:0 "Excellent!"
+
+    twritalyforeign.76.t:0 "Rome Refuses"
+    twritalyforeign.76.d:0 "The Italian government has outrageously refused our plan."
+    twritalyforeign.76.a:0 "Ridiculous!"
+
     twritalymontenegro.1.t:0 "Montenegrin Rebels Attack Danilovgrad!"
     twritalymontenegro.1.d:0 "This morning, just 20 kilometers away from the capital of Montenegro - Podgorica - a resistance group of Montenegrin rebels, lead by renowned Montenegrin Communist Arso Jovanović, attacked several of our installations including the barracks, the police headquarters and numerous checkpoints in the roads towards the city. The rebels managed to kill many brave Italian men with little losses in their side and they seized a lot of weaponry. After the attack they retreated back to their mountain nests before the Army could arrive from Podgorica to stop them.\n\n   This attack is just one of the many attacks that have occured in the last few months in Montenegro. With the rebels controlling over a quarter of Montenegro's area it is urgent that they are stopped before a real uprising happens."
     twritalymontenegro.1.a:0 "Send in the Police Immediately!"
@@ -1199,6 +1234,10 @@
     twritavar.2.d:0 "Due to recent geopolitical events, the Grand Council of Fascism's loyalty has decreased."
     twritavar.3.t:0 "MSVN Loyalty Decreases"
     twritavar.3.d:0 "Due to recent geopolitical events, the MSVN's loyalty has decreased."
+    twritavar.4.t:0 "Italy Tests Atomic Bomb"
+    twritavar.4.d:0 "At an undisclosed location in North Africa, the Italian military has successfully detonated their first atomic bomb, ushering Italy into the age of nuclear warfare.\n\nOnce struggling behind Germany, the Italians have made a significant breakthrough with their newfound nuclear capabilities. Shortly after the successful test, the Italian government issued a statement, promising that all nuclear arms will be solely used for defensive purposes. In which, the Italians have surely gained a decisive leverage in preserving national sovereignty."
+    twritavar.4.a:0 "Glorious success!"
+    twritavar.4.b:0 "The underbelly is no longer soft."
     #Decisions  
     ITA_Umberto_Visit_Empire:0 "Umberto Tours the Empire"
     ITA_Umberto_Visit_Empire_desc:0 "Unfortunately, our economic woes and poor colonial policies have led to significant problems in the various parts of Italy's empire. While mere ceremony cannot fix such deep issues, a tour by Umberto, king of Italy, across the empire, would surely give a boost of morale and prestige."
@@ -1206,6 +1245,23 @@
     ITA_ethiopian_war_desc:0 "The Ethiopians have risen up in our colony of East Africa. We must send what support is needed to the colonial authorities so they can crush these native upstarts."
     italy_send_men:0 "Send Reinforcements"
     italy_send_arms:0 "Send Weapons"
+    
+    ita_issue_a_warning:0 "Issue a Warning"
+    ita_montenegrin_partisans_category:0 "Montenegrin Resistance"
+    ita_track_the_resistance_network:0 "Track the Resistance Network"
+    ita_send_addition_men:0 "Send Additional Men"
+    ita_equip_the_garrison:0 "Equip the Garrison"
+    
+    ita_dalmatian_partisans_category:0 "Dalmatian Resistance"
+    ita_track_the_dalmatian_resistance_network:0 "Track the Dalmatian Resistance Network"
+    ita_send_addition_men_to_zadar:0 "Send Additional Men to Zadar"
+    ita_equip_the_zadar_garrison:0 "Equip the Zadar Garrison"
+    
+    ita_issue_a_warning2:0 "Issue a Warning"
+    ita_slovenian_partisans_category:0 "Slovenian Resistance"
+    ita_track_the_slovenian_resistance_network:0 "Track the Slovenian Resistance Network"
+    ita_send_addition_men_to_istria:0 "Send Additional Men to Istria"
+    ita_equip_the_slovenian_garrison:0 "Equip the Slovenian Garrison"
  
     #Leader Descriptions
     JUNIO_BORGHESE_DESC:0 "Vice Admiral Don Junio Valerio Borghese, Patrician of Rome, Naples and Venice is an enigmatic and intriguing figure. Born to one of Rome's oldest noble families, the House of Borghese, he was nurtured into a life of luxury early on. In 1929 however he decided to join the Regia Marina and from there on promotions followed quickly: in 1933 appointed submarine commander, serving in Ethiopia and in Spain.\n\nHe quickly distinguished himself as an apt commander and when the war with the United Kingdom erupted he was appointed commander of the elite Decima Flotiglia MAS, where he piooneered naval commando's. Despite the short war, Borghese was able to achieve great success by causing severe damage to British and French ships. After the end of the war, Borghese was from done with his fight. He applied to volunteer with the German Kriegsmarine to destroy the Red threat once for all. His service in the Baltic Sea was once again a great success and he even managed to sink a Soviet battleship. He won the German Pour le Mérite on special intervention by Karl Dönitz, becoming the most recent foreigner to earn the prestigious order.\n\nBorghese's experience in the war had however changed him. He realised how backwards the Italian people were, only mere shadows of Ancient Rome, he realised how antiquated a monarchy was which was based on some worthless titles. Borghese set out to work on his master plan for the rebirth of Rome out of Italy's ashes and at the same time destroy what he perceives as the 'Anglo-Germanic Hegemony'. He envisions an Aristocratic Imperial Fascist State where every man is judged based only on his abilities. Borghese wants to recreate the societal structure of Ancient Rome but with the only distinction being merit. And indeed Borghese wants Italians to dedicate themselves to war and empire building with as much ruthlessness as their ancestors. And he will do everything possible to ensure Rome is reborn..."
@@ -1327,6 +1383,7 @@
     ITA_local_german_leaders:0 "Establish German Councils"
 
     ITA_Establish_the_protectorate_of_Yemen:0 "Establish the Yemeni Protectorate"
+    ITA_Establish_the_protectorate_of_Egypt:0 "Puppet the Egyptian Government"
     ITA_Talks_With_the_Chiefs:0 "Talks with the Chiefs"
 
 
@@ -1339,10 +1396,21 @@
     ITA_land_ownership_projects:0 "Land Ownership Programme"
     ITA_incoporate_zara:0 "Incoporate Zara"
     ITA_incoporate_dalmatia:0 "Incoporate Dalmatia"
+    
+    italy_invite_hungary:0 "Invite Hungary"
 
     ITALIAN_SETTLERS:0 "Italian Settlers in Tyrol"
     ITALIAN_LANGUAGE:0 "Italian Language in Tyrol"
     GERMAN_LANGUAGE:0 "German Language Recognized in Tyrol"
     GERMAN_COUNCIL:0 "German Representatives in Tyrol"
 
+    italy_aiding_hans_HGR:0 "Aiding the Heer"
+    italy_escalate_our_intervention:0 "Escalate Our Support to Speidel"
+    ALLOW_VOLUNTEERS_TO_HANS_SPIEDEL:0 "§GUnlocks the ability to send volunteers to Heer Germany!§!"
+    WE_CAN_SUPPORT_HIM_ITA:0 "§GItaly can choose to support this rising regime!§!"
+
+    italy_invite_rom_to_med_pact:0 "Invite Romania"
+
  occupation_IEA_transfer:0 "Return Land to East Africa"
+ ITA_balbo_1960:0 "Balbo Tree"
+ ITA_NUCLEAR_AGE:0 "Italian Nuclear Test"

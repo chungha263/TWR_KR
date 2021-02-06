@@ -238,6 +238,8 @@ MoS_Secret_Police_Chief:0 "Secret Police Chief"
  AM_Mad_Man:0 "Mad Man"
  AM_Space_Enthusiast:0 "Space Enthusiast" #Korolev
  AM_Gosplan_Boss:0 "Gosplan Boss"
+
+ AM_Unqualified_Amateur:0 "Unqualified Amateur"
  
 # Chief of Staff traits 
 CoStaff_School_Of_Manoeuvre:0 "School of Manouevre" 

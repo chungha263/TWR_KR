@@ -479,6 +479,7 @@ GER_USA_SUMMIT_SUCCESSFUL:0 "Successful American-German Summit"
 GOE_national_socialist_codex_generic:0 "National Socialist Codex"
 GOR_chinese_branch:0 "Open Up a Chinese Branch"
 GGR_conquest_of_the_greater_reich:0 "Southern Military Expansion"
+GGR_diplomacy_with_fash_europe:0 "Diplomatic Talks with [FROM.GetNameDef]"
 
 twrgoering.669.t:0 "Göring Announces Eastern Ambitions"
 twrgoering.669.d:0 "Rejected by the Americans, Hermann Göring has pulled yet another shift in his foreign policies.\n\nIn a Luftwaffe inspection ceremony, Hermann Göring spoke about how his hopes of peace were trampled by the ignorant Americans, saying that the Greater German Reich shall regain her initiative by striking eastward, finally toppling the weakened giant known as the Bolsheviks. In Göring's view, the rejection has provided Germany enough justification for expansion, as a form of \"offensive defense\" against the world."
@@ -488,6 +489,19 @@ twrgoering.669.b:0 "So much for peace."
 twrgoering.18.t:0 "Opening of Reichswerke China"
 twrgoering.18.d:0 "Since the signing of the partnership treaty between China and Germany, German industralists have moved into our market, providing us with high-tech equipment and much needed currencies.\n\nHowever, this partnership has developed even further than first expected, as the Reichswerke China opens its first facility in China. While the profit is divided by the German corporation and the Chinese National Government, this facility will provide us refined materials, and educate Chinese workers on how to operate Western machineries."
 twrgoering.18.a:0 "Interesting."
+
+twrgoering.19.t:0 "Germania Offers Peaceful Relationships"
+twrgoering.19.d:0 "An envoy from Germania has arrived at our capital, offering our nation peaceful relationship with the German Reich."
+twrgoering.19.a:0 "We accept this offer!"
+twrgoering.19.b:0 "We refuse this offer!"
+
+twrgoering.20.t:0 "[FROM.GetAdjectiveCap] Accepts Our Offer"
+twrgoering.20.d:0 "[FROM.GetNameDef] has accepted our terms for a peaceful relationship!"
+twrgoering.20.a:0 "Very well!"
+
+twrgoering.21.t:0 "[FROM.GetAdjectiveCap] Refuses Our Offer"
+twrgoering.21.d:0 "[FROM.GetNameDef] has rejected our offers for a better relationship!"
+twrgoering.21.a:0 "Their loss."
 
 GERMAN_CHINESE_SIGNED:0 "§RGermans and Chinese have signed a treaty.§!"
 REICHSWORK_CHINA_OPENED:0 "§GA new contractor will be unlocked!§!"

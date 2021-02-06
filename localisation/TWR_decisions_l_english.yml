@@ -5,6 +5,9 @@
  debug_collapse_ENG:0 "대영제국의 붕괴"
  debug_collapse_TA_GER:0 "토론토 협정의 붕괴 - 독일 승리시"
  debug_collapse_TA_SOV:0 "토론토 협정의 붕괴 - 소련 승리시"
+ 
+ EFFECT_UNLOCK_DECISION:1 "Unlocks Decision: £decision_icon_small $NAME|H$$EFFECT$"
+ EFFECT_UNLOCK_DECISION_CATEGORY:1 "Unlocks £decision_icon_small $NAME|H$ Decisions."
 
  GER_education:0 "German Education"
  GER_spying_for_hitler:0 "Spying for Hitler"

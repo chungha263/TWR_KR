@@ -144,7 +144,7 @@ TUR_full_security:0 "§Y25.000§! conscripts will be situated in the Eastern Pro
 TUR_bye_west:0 "§RThe non-faithful generals will be dealt with.§!"
 #### Parties ####
 TUR_THB_united_party:0 "TDP"
-TUR_THB_united_party_long:0 "Turan Demokrat Partisi"
+TUR_THB_united_party_long:0 "Turan Demokrat Partisi (Turan Democrat Party)"
 
 #### Opinion Modifiers ####
 TUR_little_america_modifier:0 "Looked Up To"

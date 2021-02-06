@@ -82,7 +82,7 @@ twrvenezuela.8.t:0 "Rafael Wins Election"
 twrvenezuela.8.d:0 "With the election results finally coming in it has been announced that Rafael Caldera under the social-democratic Accion Democratica party has been elected the new president of Venezuela. Rafael ran  under a campaign of more education reforms, protecting catholic institutions, a policy which has resonated with the catholic majority of Venezuela, and seeking greater economic cooperation among the other Latin American nations. With him being elected, he will bring Venezuela into prosperity and a state of renewed democracy."
 twrvenezuela.8.a:0 "A better Venezuela for Venezuelans."
 twrvenezuela.9.t:0 "Arturo Wins Election"
-twrvenezuela.9.d:0 "The results of the election have come in and it has been announced that Arturo Pietri is the first president of the new Venezuelan republic. Arturo ran under the liberal Comité de Organización Política Electoral Independiente party promising to boost the Venezuelan economy and promote what he calls “conservative bolivarianism”. He is also very pro-American, wanting to expand economic ties with them and ban pro-German organizations in the country. Arturo will lead a new Venezuela out of the rubble of the old and broken."
+twrvenezuela.9.d:0 "The results of the election have come in and it has been announced that Arturo Pietri is the first president of the new Venezuelan republic. Arturo ran under the liberal Comité de Organización Política Electoral Independiente party promising to boost the Venezuelan economy and promote what he calls "conservative bolivarianism". He is also very pro-American, wanting to expand economic ties with them and ban pro-German organizations in the country. Arturo will lead a new Venezuela out of the rubble of the old and broken."
 twrvenezuela.9.a:0 "Freer the markets, the freer the people."
 twrvenezuela.10.t:0 "Democratic Coup Succeeds"
 twrvenezuela.10.d:0 "Today armed mobs had gathered around the capital protesting for freedom. This protest soon turned into an open revolt with the people demanding that Generalissimo Perez Jimenez allow democratic elections in Venezuela. After getting news of his refusal, a military officer named Wolfgang Larrazabal led a group of disgruntled soldiers to storm the presidential palace. As they walked through the streets, many civilian protesters joined the soldiers. Jimenez getting word of this quickly fled the country allowing Wolfgang to enter the presidential office unopposed. Now at the head of the government, Wolfgang promises to prepare for new elections to decide the new president of Venezuela."
@@ -132,7 +132,7 @@ pro_us_policy:0 "Pro-US Policy"
 ##Parties##
 VEN_Provisional_Government_Junta_long:0 "Wolfgang's Provisional Government Junta"
 VEN_Provisional_Government_Junta:0 "Provisional Government Junta"
-VEN_Movimiento_de_Accion_Nacional_long:0 "Movimiento de Accion Nacional"
+VEN_Movimiento_de_Accion_Nacional_long:0 "Movimiento de Acción Nacional (National Action Movement)"
 VEN_Movimiento_de_Accion_Nacional:0 "MAN"
 
 ##Focuses##

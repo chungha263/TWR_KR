@@ -1582,6 +1582,7 @@
  SPART_1980_soft_attack_desc:0 "Improves the firepower of the SPART."
  SPART_1980_speed:0 "Engine Upgrade IV"
  SPART_1980_speed_desc:0 "Improves the speed of deployment."
+ gw_artillery_desc:0 "Artillery that served during the wartime."
 
  ship_hull_ballistic_submarine:0 "1950 Long Range Submarine"
  ship_hull_ballistic_submarine_desc:0 "A long range submarine capable of reaching long distances."
@@ -1593,6 +1594,8 @@
  ship_hull_ballistic_submarine_4_desc:0 "A long range submarine capable of reaching long distances."
  ship_hull_ballistic_submarine_5:0 "1990 Long Range Submarine"
  ship_hull_ballistic_submarine_5_desc:0 "A long range submarine capable of reaching long distances."
+
+ cat_strategic_theorem:0 "Strategic Theorem"
 
  cruiser:0 "Cruiser"
  UNLOCK_DIVISION_TEMPLATE:0 "Unlocks a free §HDivision Template§!"

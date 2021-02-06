@@ -35,6 +35,18 @@ twregypt.7.t:0 "The British Counter Coup"
 twregypt.7.d:0 "With British Support and some tempting deals for Free Officers defectors, support for the Revolutionary Government rapidly collapsed. After brief battles with the remaining skeleton crew of the Revolutionary Government, the revolutionaries realized how dire the situation has become and escaped to Palestine. Major figures such as Nasser and Naguib are now in exile, with other supposedly Free Officer Corp supporters defecting and denouncing the two individuals. \n\nThe Monarchy reigns supreme, and at the moment, the popular revolt seems to be a lost cause."
 twregypt.7.a:0 "Farouk is pleased!"
 
+twregypt.8.t:0 "Republican Victory"
+twregypt.8.d:0 "The Egyptian Republican movement is victorious! The Pro-Italian traitors have been chased off of Egypt!"
+twregypt.8.a:0 "Victory!"
+
+twregypt.9.t:0 "Government Victory"
+twregypt.9.d:0 "The Egyptian central government is victorious! The English rebels have been crushed by the might of our forces!"
+twregypt.9.a:0 "Victory!"
+
+twregypt.10.t:0 "Royalist Egypt Victory"
+twregypt.10.d:0 "Backed by the Italians, the British instigated revolt has been defeated.\n\nWith this victory for the Italians, this signifies the start of Italianization of Egypt, allowing Rome to expand its influence onto Egypt. The Italian Empire will soon be able to integrate Egypt, and to de-escalate the situation, London has reopened the Suez for Italian shipping."
+twregypt.10.a:0 "A victory for Italy."
+
 twregypt.699.t:0 "Failed Counter Revolution"
 twregypt.699.d:0 "After failing to secure foreign support, the Revolution has reached the until now untouched parts of the country, ousting the King, monarchist support and any elements of a regency government that are standing against the tide of the people. Despite the attempts to salvage the situation by the Royalty, they are now forced into exile with the Republic declared the new regime of Egypt."
 twregypt.699.a:0 "We tried."
@@ -79,6 +91,8 @@ EGY_discontented_population_desc:0 "The Egyptian Government has been widely unpo
 EGY_matter_of_the_canal:0 "운하의 문제"
 EGY_matter_of_the_canal_desc:0 "With the Suez Canal still occupied by Britain, Egypt is still in dire need of unification and the people are eager to unite the nation once more, away from the hands of the Western imperialists."
 EGY_italian_settlement:0 "이탈리아인 정착지"
+
+EGY_ITA_SECURED:0 "Italian Egypt is secured!"
 ### Army ###
 
 
@@ -94,6 +108,9 @@ EGY_italian_settlement:0 "이탈리아인 정착지"
 #### Politics ####
 EGY_free_officers:0 "군사 정부"
 EGY_free_officers_long:0 "자유 장교단 "
+
+EGY_republican_government:0 "Republicans"
+EGY_republican_government_long:0 "Hukumat Jumhuria (Republican Government)"
 
 #### FORIEGN POLICY ####
 

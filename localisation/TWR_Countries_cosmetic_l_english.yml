@@ -1655,3 +1655,199 @@ KOR_ANARCHIST_socialist_def:0 "조선 인민 위원회"
  andorra_i:0 "안도라 공국\n\n\n\n\n£andorra_flag_icon\n\n\n\n\n\n\n§WBishop:§! §HRamon Iglesias i Navarri§!\n\n\n\n\n\n\n\n£portrait_Ramon_Iglesias_i_Navarri\n\n\n\n\n\n\n\n\n\n--------------\n"
  mount_athos_i:0 "아토스 자치 공화국\n\n\n\n\n£mount_athos_flag_icon\n\n\n\n\n\n\n§WEcumenical Patriarch:§! §HAthenagoras I of Constantinople§!\n\n\n\n\n\n\n\n£portrait_Athinagoras\n\n\n\n\n\n\n\n\n\n--------------\n"
  mount_athos_ii:0 "아토스 제국보호령\n\n\n\n\n£nazi_mouth_athos_flag_icon\n\n\n\n\n\n\n§WEcumenical Patriarch:§! §HAthenagoras I of Constantinople§!\n\n\n\n\n\n\n\n£portrait_Athinagoras\n\n\n\n\n\n\n\n\n\n--------------\n"
+ cyprus_i:0 "Federative State of Turkish Cypriots\n\n\n\n\n£cyprus_flag_icon\n\n\n\n\n\n\n§WPolitical Leader:§! §HRauf Denktas§!\n\n\n\n\n\n\n\n£portrait_Rauf_Denktas\n\n\n\n\n\n\n\n\n\n--------------\n"
+
+ bosnia_i:0 "Bosnian Autonomous Region\n\n\n\n\n£bosnia_flag_icon\n\n\n\n\n\n\n§WAutonomous Chairman:§! §HMehmed Handzic§!\n\n\n\n\n\n\n\n£portrait_Mehmed_Handzic\n\n\n\n\n\n\n\n\n\n--------------\n"
+ bosnia_ii:0 "Bosnian Autonomous Region\n\n\n\n\n£bosnia_flag_icon\n\n\n\n\n\n\n§WAutonomous Chairman:§! §HNo Leader§!\n\n\n\n\n\n\n\n£portrait_No_Leader_Bosnia\n\n\n\n\n\n\n\n\n\n--------------\n"
+ bosnia_iii:0 "Bosnian Autonomous Region\n\n\n\n\n£bosnia_flag_icon\n\n\n\n\n\n\n§WAutonomous Chairman:§! §HAlija Suljak§!\n\n\n\n\n\n\n\n£portrait_Alija_Suljak\n\n\n\n\n\n\n\n\n\n--------------\n"
+ bosnia_iv:0 "Bosnian Autonomous Region\n\n\n\n\n£bosnia_flag_icon\n\n\n\n\n\n\n§WAutonomous Chairman:§! §HKasim Dobraca§!\n\n\n\n\n\n\n\n£portrait_Kasim_Dobraca\n\n\n\n\n\n\n\n\n\n--------------\n"
+
+ GRE_CYP:0 "Eastern Mediterranean People's Federation"
+ GRE_CYP_DEF:0 "The Eastern Mediterranean People's Federation"
+ 
+ TURCYP_paternal_autocrat:0 "Cypriot Military Administration"
+ TURCYP_paternal_autocrat_DEF:0 "The Cypriot Military Administration"
+ 
+ TURCYP_conservative:0 "Turkish Cypriot Republic"
+ TURCYP_conservative_DEF:0 "The Turkish Cypriot Republic"
+
+ HUN_GREATER:0 "Greater Hungarian State"
+ HUN_GREATER_DEF:0 "The Greater Hungarian State"
+
+ HUN_SCY_GREATER:0 "Land of the Hetumoger"
+ HUN_SCY_GREATER_DEF:0 "The Land of the Hetumoger"
+ HUN_SCY_GREATER_ADJ:0 "Magyar"
+
+ HUN_SCY:0 "Magyarország"
+ HUN_SCY_DEF:0 "Magyarország"
+ HUN_SCY_ADJ:0 "Magyar"
+
+ ROM_GUARD_SPEC:0 "Kingdom of Romania"
+ ROM_GUARD_SPEC_DEF:0 "The Kingdom of Romania"
+
+ ROM_TRICOLOUR_KINGDOM_GUARD:0 "Kingdom of Romania"
+ ROM_TRICOLOUR_KINGDOM_GUARD_DEF:0 "The Kingdom of Romania"
+
+ ROM_TRICOLOUR_LEGIONARY_STATE:0 "National Legionary State"
+ ROM_TRICOLOUR_LEGIONARY_STATE_DEF:0 "The National Legionary State"
+
+ ROM_GREEN_KINGDOM_GUARD:0 "Kingdom of Romania"
+ ROM_GREEN_KINGDOM_GUARD_DEF:0 "The Kingdom of Romania"
+
+ ROM_GREEN_LEGIONARY_STATE:0 "National Legionary State"
+ ROM_GREEN_LEGIONARY_STATE_DEF:0 "The National Legionary State"
+
+ ROM_ARCH_KINGDOM_GUARD:0 "Kingdom of Romania"
+ ROM_ARCH_KINGDOM_GUARD_DEF:0 "The Kingdom of Romania"
+
+ ROM_ARCH_LEGIONARY_STATE:0 "National Legionary State"
+ ROM_ARCH_LEGIONARY_STATE_DEF:0 "The National Legionary State"
+
+ ROM_TRICOLOUR_IG_KINGDOM_GUARD:0 "Kingdom of Romania"
+ ROM_TRICOLOUR_IG_KINGDOM_GUARD_DEF:0 "The Kingdom of Romania"
+ 
+ ROM_TRICOLOUR_IG_LEGIONARY_STATE:0 "National Legionary State"
+ ROM_TRICOLOUR_IG_LEGIONARY_STATE_DEF:0 "The National Legionary State"
+ #########
+ #Serbia
+ #########
+ 
+ SER_CHE:0 "Serbian Chetnik Movement"
+ SER_CHE_DEF:0 "The Serbian Chetnik Movement"
+ 
+ SER_GRS:0 "Greater Serbia"
+ SER_GRS_DEF:0 "Greater Serbia"
+ 
+ SER_KGS:0 "Kingdom of Serbia"
+ SER_KGS_DEF:0 "The Kingdom of Serbia"
+ 
+ SER_YUG:0 "Kingdom of Yugoslavia"
+ SER_YUG_DEF:0 "The Kingdom of Yugoslavia"
+ SER_YUG_ADJ:0 "Yugoslav"
+ SER_YUG_bolshevik_leninist:0 "Socialist Republic of Yugoslavia"
+ SER_YUG_bolshevik_leninist_DEF:0 "The Socialist Republic of Yugoslavia"
+ SER_YUG_marxist_leninist:0 "Socialist Republic of Yugoslavia"
+ SER_YUG_marxist_leninist_DEF:0 "The Socialist Republic of Yugoslavia"
+ SER_YUG_socialist:0 "Socialist Republic of Yugoslavia"
+ SER_YUG_socialist_DEF:0 "The Socialist Republic of Yugoslavia"
+ SER_YUG_paternal_autocrat:0 "Kingdom of Yugoslavia"
+ SER_YUG_paternal_autocrat_DEF:0 "The Kingdom of Yugoslavia"
+ 
+ SER_FAS_fascist:0 "Serbian Social Republic"
+ SER_FAS_fascist_DEF:0 "The Serbian Social Republic"
+ 
+ SER_JAN:0 "National State of Serbia"
+ SER_JAN_DEF:0 "the National State of Serbia"
+ 
+ SER_ANARCHY_TAG:0 "Serbia"
+ SER_ANARCHY_TAG_DEF:0 "Serbia"
+
+ SER_CRO_PUPPET:0 "National Administration of Seriba"
+ SER_CRO_PUPPET_DEF:0 "The National Administration of Seriba"
+
+ GRE_ANARCHY_TAG:0 "Greece"
+ GRE_ANARCHY_TAG_DEF:0 "Greece"
+
+ GRE_KING:0 "Kingdom of Greece"
+ GRE_KING_DEF:0 "The Kingdom of Greece"
+
+ BNT_SSR:0 "Banat Autonomous Republic"
+ BNT_SSR_DEF:0 "The Banat Autonomous Republic"
+
+ TRY_SSR:0 "Transylvania Autonomous Socialist Republic"
+ TRY_SSR_DEF:0 "The Transylvania Autonomous Socialist Republic"
+
+ NUK_FASH:0 "Transnistria Governate"
+ NUK_FASH_DEF:0 "The Transnistria Governate"
+
+ WCH_FASH:0 "Wallachia Governate"
+ WCH_FASH_DEF:0 "The Wallachia Governate"
+
+ MOL_FASH:0 "Moldavia Governate"
+ MOL_FASH_DEF:0 "The Moldavia Governate"
+ 
+ SER_SSR:0 "Transitional Serbian Socialist Republic"
+ SER_SSR_DEF:0 "The Transitional Serbian Socialist Republic"
+ 
+ BUL_SSR:0 "Socialist Republic of Bulgaria"
+ BUL_SSR_DEF:0 "The Socialist Republic of Bulgaria"
+
+ SLO_SSR:0 "Slovak Soviet Republic"
+ SLO_SSR_DEF:0 "The Slovak Soviet Republic"
+
+ CRO_SSR:0 "Croatian Soviet Socialist Republic"
+ CRO_SSR_DEF:0 "The Croatian Soviet Socialist Republic"
+
+ ALB_CRO_PUPPET:0 "Military Administration of Albania"
+ ALB_CRO_PUPPET_DEF:0 "The Military Administration of Albania"
+
+ HUN_CRO_PUPPET:0 "National State of Hungary"
+ HUN_CRO_PUPPET_DEF:0 "The National State of Hungary"
+
+ GRE_CRO_PUPPET:0 "Military Administration of Greece"
+ GRE_CRO_PUPPET_DEF:0 "The Military Administration of Greece"
+
+ BUL_CRO_PUPPET:0 "Social State of Bulgaria"
+ BUL_CRO_PUPPET_DEF:0 "The Social State of Bulgaria"
+
+ ROM_PUPPET_BUL:0 "State of Bulgaria"
+ ROM_PUPPET_BUL_DEF:0 "The State of Bulgaria"
+
+ NORMAL_PUPPET_SER:0 "State of Serbia"
+ NORMAL_PUPPET_SER_DEF:0 "The State of Serbia"
+
+ NORMAL_PUPPET_CRO:0 "State of Croatia"
+ NORMAL_PUPPET_CRO_DEF:0 "The State of Croatia"
+
+ NORMAL_PUPPET_ALB:0 "State of Albania"
+ NORMAL_PUPPET_ALB_DEF:0 "The State of Albania"
+
+ NORMAL_PUPPET_GRE:0 "State of Greece"
+ NORMAL_PUPPET_GRE_DEF:0 "The State of Greece"
+
+ NORMAL_PUPPET_ROM:0 "State of Romania"
+ NORMAL_PUPPET_ROM_DEF:0 "The State of Romania"
+
+ NORMAL_PUPPET_HUN:0 "State of Hungary"
+ NORMAL_PUPPET_HUN_DEF:0 "The State of Hungary"
+
+ NORMAL_PUPPET_SLO:0 "State of Slovakia"
+ NORMAL_PUPPET_SLO_DEF:0 "The State of Slovakia"
+
+ GRE_PUPPET_NATSOC_ROM:0 "Commissariat Roumania"
+ GRE_PUPPET_NATSOC_ROM_DEF:0 "Commissariat Roumania"
+
+ GRE_PUPPET_NATSOC_HUN:0 "Commissariat Pannonika"
+ GRE_PUPPET_NATSOC_HUN_DEF:0 "Commissariat Pannonika"
+
+ GRE_PUPPET_NATSOC_SER:0 "Commissariat Servia"
+ GRE_PUPPET_NATSOC_SER_DEF:0 "Commissariat Servia"
+
+ GRE_PUPPET_NATSOC_CRO:0 "Commissariat Dalmatia"
+ GRE_PUPPET_NATSOC_CRO_DEF:0 "Commissariat Dalmatia"
+
+ GRE_PUPPET_NATSOC_SLO:0 "Commissariat Marcomannia"
+ GRE_PUPPET_NATSOC_SLO_DEF:0 "Commissariat Marcomannia"
+ #######################
+ # Romania and Puppets #
+ #######################
+ ROM_PUPPET_HUN_GUARD:0 "Administratie Legionara Vest-Tisa"
+ ROM_PUPPET_HUN_GUARD_DEF:0 "The West-Tisa Legionary Administration"
+ ROM_PUPPET_BUL_GUARD:0 "Administratie Legionara Sud-Est-Dunareana"
+ ROM_PUPPET_BUL_GUARD_DEF:0 "The South-East-Danube Legionary Administration"
+ ROM_PUPPET_SER_GUARD:0 "Administratie Legionara Sud-Vest-Dunareana"
+ ROM_PUPPET_SER_GUARD_DEF:0 "The South-West-Danube Legionary Administration"
+ ROM_PUPPET_MCD_GUARD:0 "Administratie Legionara Macedoneana"
+ ROM_PUPPET_MCD_GUARD_DEF:0 "The Macedonian Legionary Administration"
+ ROM_PUPPET_ALB_GUARD:0 "Administratie Legionara Albaneza"
+ ROM_PUPPET_ALB_GUARD_DEF:0 "The Albania Legionary Administration"
+ CKR_DUCHY:0 "Duchy of Carpatho-Ukraine"
+ THRACE:0 "Thrace"
+ THRACE_DEF:0 "Thrace"
+ THRACE_ADJ:0 "Thracian"
+ 
+ DOE_ITAGRE:0 "Special Region of Dodecanese"
+ DOE_ITAGRE_DEF:0 "The Special Region of Dodecanese"
+
+ ROM_CRO_PUPPET:0 "Romanian National State"
+ ROM_CRO_PUPPET_DEF:0 "The Romanian National State"

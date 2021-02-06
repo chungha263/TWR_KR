@@ -843,8 +843,8 @@
  #PARTIES#
  JAP_SOCDEM:0 "Shakaiminshutō"
  JAP_SOCDEM_long:0 "Shakaiminshutō (Social Democratic Party)"
- JAP_SOC:0 "Saha Renmei"
- JAP_SOC_long:0 "Saha Renmei"
+ JAP_SOC:0 "Sayoku Yatō"
+ JAP_SOC_long:0 "Sayoku Yatō (Leftist Opposition Party)"
  
  japanese_economics:0 "Japanese Economy"
  japanese_economics_desc:0 "The Economy of Japan was destroyed by the great waves of firebombing and devastation from the war. But with the help of the occupational authorities, a total economic collapse was prevented from happening.\n\nNow with the new regime, Japan can now start it's post-war reconstruction and foster economic growth. With public projects and economic plans, the government's efforts on developing the Japanese economy can now begin."
@@ -887,7 +887,7 @@
  twrjapan.11.a:0 "Banzai!- Wait no..."
 
  twrjapan.12.t:0 "Yokohama Attack"
- twrjapan.12.d:0 "Hours ago, an unauthorized plane, which appeared to be an old stolen Zero fighter crashed into a United States patrol boat, killing 56 on board. A brief investigation by the National Police reveal that the attacker was associated with a Japanese Ultranationalistic group, calling themselves 'Kōfukusuru'. However, the National Police and the Occupation Authority concludes that no such group exists, it's presumed this is an attack concluded and planned by one single person.\n\nWe have received an official apology from the Japanese Government, but some critics are questioning the progress of re-education in Occupied Japan."
+ twrjapan.12.d:0 "Hours ago, an unauthorized plane, which appeared to be an old stolen Zero fighter crashed into a United States patrol boat, killing 56 on board. A brief investigation by the National Police reveal that the attacker was associated with a Japanese Ultranationalistic group, calling themselves 'Kofukusuru'. However, the National Police and the Occupation Authority concludes that no such group exists, it's presumed this is an attack concluded and planned by one single person.\n\nWe have received an official apology from the Japanese Government, but some critics are questioning the progress of re-education in Occupied Japan."
  twrjapan.12.a:0 "Oh the humanity!"
 
  twrjapan.13.t:0 "Minor Demonstrations in Hokkaido"
@@ -1076,7 +1076,7 @@
  twrjapan.85.a:0 "History repeats itself..."
 
  twrjapan.86.t:0 "Japanese Anarchist Takeover"
- twrjapan.86.d:0 "It was clear to all that instability and chaos had been rocking Japanese politics recently, but few could have predicted the most recent political direction the country has taken. Building on the wave of a sudden surge in public support, Japan’s anarchist groups have managed to maneuver themselves into a position of power. And yet, it is power structures and hierarchical government that are the things they oppose. It remains to be seen to what extent such a radical group will attempt or succeed such an extensive and experimental program of social restructuring as the one they have been calling for."
+ twrjapan.86.d:0 "It was clear to all that instability and chaos had been rocking Japanese politics recently, but few could have predicted the most recent political direction the country has taken. Building on the wave of a sudden surge in public support, Japan's anarchist groups have managed to maneuver themselves into a position of power. And yet, it is power structures and hierarchical government that are the things they oppose. It remains to be seen to what extent such a radical group will attempt or succeed such an extensive and experimental program of social restructuring as the one they have been calling for."
  twrjapan.86.a:0 "A radical change."
 
  twrjapan.87.t:0 "Japanese Communist Takeover"

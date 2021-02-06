@@ -275,3 +275,11 @@ twrnukes.35.t:0 "글래스고에서 폭발한 핵무기"
 twrnukes.35.d:0 "The Miracle on the River Clyde has come to a bloody halt: a nuclear fireball rises above the Second City of Empire, and it takes the wealth and power of the city with it. Glasgow's famed modern streets are torn to barbarity as well, smoking shells of their former selves upon which the survivors stagger to find help that will never arrive.\n\nThe rubble of the City Chambers will prove no help to the milling crowds, as will the chaos unfolding upon George Square: amidst the desperate calls for help and the cries of the dying and heavily wounded come a call for justice from a distant London. There is talk of betrayal in the city's refugee centers, betrayal that becomes ever sharper with each missed food ration - even, it is whispered, of separatism."
 twrnukes.35.a:0 "Scotland's beauty and our joy - broken forever."
 twrnukes.35.b:0 "A tragedy for the English stepbrother."
+
+ wmd_development:0 "Weapons Development"
+ wmd_development_desc:0 "As our nation continues to develop, it is natural for an independent power to pursuit greater defence capabilities.\n\nBy investing into nuclear and bio-chemical warfare research, we can increase our nation's standing in both the world and independence, ensuring that any potential aggressors would face great retribution. To put it in a simpler sense, our nation must keep up with other players on the world stage."
+
+ WMD_investing_into_chemicals:0 "Kickstart Bio-Chemical Research"
+ ALLOW_RESEARCH_BIO_CHEMICAL_TECH:0 "§GUnlocks Biological and Chemical tech tree!§!"
+ WMD_kickstart_nuclear_project:0 "Kickstart Nuclear Research"
+ NUCLEAR_ALLOWED:0 "This nation is capable of nuclear research!"

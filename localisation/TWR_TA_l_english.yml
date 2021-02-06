@@ -52,6 +52,7 @@
     twrta.102.d:0 "Our radar has detected a US reconaissance aircraft violating our airspace. While this clear violation warrents a response, with the civil war ongoing, escalation with the western powers maybe not be advantageous. What should we do?"
     twrta.102.a:0 "Leave it be"
     twrta.102.b:0 "Attempt to shoot it down!"
+    twrta.103.t:0 "American Spy Plane Detected"
     twrta.103.d:0 "Our radar has detected a US reconaissance aircraft violating our airspace. While this clear violation warrents a response, escalation with the western powers may result in all out war. What should we do?"
     twrta.103.a:0 "Leave it be"
     twrta.103.b:0 "Attempt to shoot it down!"
@@ -136,9 +137,14 @@
 	ta_invite_france_to_gcw:0 "Invade Through France"
 	ta_invite_france_to_gcw_move_troops:0 "Covertly Move Troops Into France"
 
+    twrta.8889.t:0 "Toronto Accord Invasion Defeated"
+    twrta.8889.d:0 "To the surprise and horror of the world, it seems that Germany has defeated the forces of the Toronto Accord, preventing them from successfully launching an invasion and conquest of the Reich. Despite support for the invasion from multiple major nations, including the United States, it seems that their combined might was not enough to crush Germany.\n\nSome German citizens have gathered on the streets for celebrations, chanting the phrase \"the might of the Aryan race will last forever!\""
+    twrta.8889.a:0 "Germany triumphs once again."
     ### ideas ###
     USA_unrepared_military:0 "Unprepared Armed Forces"
     USA_unrepared_military_desc:0 "With the TA intervening in the German Civil War at such short notice, their armed forces have been thrown into action unprepared."
     USA_fanatic_german_defence:0 "Fanatic German Defence"
     USA_fanatic_german_defence_desc:0 "Radicalized by Nazi ideology, millions of Germans are prepared to fight to the death to defend their Fatherland."
-	
+	TA_invasion_of_germany_gcw:0 "German Intervention"
+    TA_FAILED_TO_INVADE:0 "The war drags out..."
+    GER_enforced_TA_ceasefire:0 "End the Toronto Accord Invasion"

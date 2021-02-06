@@ -23,3 +23,11 @@ GEN_Entrenched_Politics:0 "정치 고착화"
 GEN_Effective_Bureaucracy:0 "효율적인 관료제"
 
 BRANCH_TBD:0 "§R!BRANCH TO BE DONE!§!"
+
+twrinvitetofac.1.t:0 "[FROM.GetAdjective] Invitation"
+twrinvitetofac.1.d:0 "[FROM.GetNameDef] has formally invited our government to join the [FROM.GetFactionName]."
+twrinvitetofac.1.a:0 "We accept!"
+twrinvitetofac.1.b:0 "We refuse!"
+twrinvitetofac.2.t:0 "[FROM.GetAdjectiveCap] Refused"
+twrinvitetofac.2.d:0 "[FROM.GetNameDef] has refused our invitation."
+twrinvitetofac.2.a:0 "How ungrateful."

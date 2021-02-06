@@ -23,6 +23,9 @@ DEM_INDIAN_UNION_DESC:0 "Member of: §H민주 인도 연합§!\n\n§gA democrati
 MEX_DEM_COA_DESC:0 "Member of: §H민주 연합§!\n\n§gCentered in Mexico, the Democratic Coalition is united by the goal of preserving democracy in Latin America.§!"
 GER_GCW_UNITED_DESC:0 "Member of: §H독일 연합 전선§!\n\n§gA temporary alliance of German political factions, the German United Front seeks to defend Germany from external threats.§!"
 CHI_NANJING_DESC:0 "Member of: §H난징조약§!\n\n§gFormed by the Chinese government, the Nanjing Pact is an economic and military alliance with the purpose of forming a coalition of Asian states against the growing threat of Radical Leftism and Western Imperialism.§!"
+BUCHAREST_PACT_DESC:0 "Member of: §HBucharest Pact§!\n\n§gFormerly known as the Little Entente, the Bucharest Pact serves the similar purpose of containing regional revanchism, a defensive alliance that seeks to stabilize the Balkans.§!"
+BELGRADE_PACT_DESC:0 "Member of: §HBelgrade Pact§!\n\n§gSimilar to the Little Entente, the Belgrade Pact seeks to protect the Balkans from fascism and communism. With this agenda, the Belgrade Pact has sworn to protect the national sovereignty of its member states.§!"
+GRE_ORPACT_DESC:0 "Member of: §HBalkan-Ordnungspakt§!\n\n§gDesigned to be an alliance for Balkan ultranationalist regimes, the Balkan-Ordnungspakt is an expansionist regime, seeking to mimic the achievements of Germany.§!"
 
 TWR_nojoinwar_on:0 "규칙 설정: £trigger_no£전쟁에 참여하거나 참가할수 없습니다"
 TWR_nojoinwar_off:0 "규칙 설정: £trigger_yes£전쟁에 참여하거나 참가할수 있습니다."
