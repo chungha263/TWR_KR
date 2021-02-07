@@ -1493,9 +1493,9 @@ SHOW_COLLABORATIONS:0 "연정"
  JAP_conservative_party_long:0 "자유당"
  JAP_liberal_party:0 "개진당"
  JAP_liberal_party_long:0 "개진당-개혁파"
- JAP_social_democrat_party:0 "일본 사회민주당
+ JAP_social_democrat_party:0 "일본 사회민주당"
  JAP_social_democrat_party_long:0 "일본 사회민주당-우파"
- JAP_socialist_party:0 "일본 사회민주당
+ JAP_socialist_party:0 "일본 사회민주당"
  JAP_socialist_party_long:0 "일본 사회민주당-좌파"
  JAP_bolshevik_leninist_party:0 "일본공산당"
  JAP_bolshevik_leninist_party_long:0 "일본 공산당"
@@ -1508,11 +1508,11 @@ SHOW_COLLABORATIONS:0 "연정"
  CHI_national_socialist_party_long:0 "삼민주의역행사"
  CHI_fascist_party:0 "남의사"
  CHI_fascist_party_long:0 "삼민주의역행사"
- CHI_paternal_autocrat_party:0 "국민당-장제스파
+ CHI_paternal_autocrat_party:0 "국민당-장제스파"
  CHI_paternal_autocrat_party_long:0 "국민당-장제스파"
  CHI_conservative_party:0 "국민당"
  CHI_conservative_party_long:0 "국민당"
- CHI_liberal_party:0 "국민당-정치학파
+ CHI_liberal_party:0 "국민당-정치학파"
  CHI_liberal_party_long:0 "국민당-정치학파"
  CHI_social_democrat_party:0 "국민당-좌파
  CHI_social_democrat_party_long:0 "국민당-좌파"
