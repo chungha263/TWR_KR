@@ -346,7 +346,7 @@ guiTypes = {
 				name = "nuclear_production"
 				position = { x = 290 y = 200 }
 				font = "hoi_16mbs"
-				text = "원자력 폭탄 위원회"
+				text = "원자력 폭탄 조립"
 				maxWidth = 200
 				maxHeight = 23
 				format = left
